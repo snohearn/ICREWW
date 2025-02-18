@@ -237,29 +237,5 @@ if __name__ == "__main__":
     app.run_server(debug=False)
 
 
-# In[4]:
-
-
-# In[5]:
-
-
-pip install --upgrade pip
-
-
-# In[6]:
-
-
-pip freeze > requirements.txt
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
