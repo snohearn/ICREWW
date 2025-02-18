@@ -240,9 +240,6 @@ if __name__ == "__main__":
 # In[4]:
 
 
-pip install gunicorn
-
-
 # In[5]:
 
 
