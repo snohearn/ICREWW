@@ -1,0 +1,305 @@
+Unnamed: 0,site_id,species_a,phenophase_a,species_b,phenophase_b,number_of_observations,kendall_tau,p_value,species_a_name,species_b_name,site_name
+9,8182,3,Breaking leaf buds,1172,Increasing leaf size,14,0.4114352887942449,0.0464349408310933,red maple,yellow buckeye,GRSM-PKnob Upper Plot
+21,8182,3,Increasing leaf size,102,Breaking leaf buds,14,0.5142941109928062,0.0127092012460418,red maple,northern red oak,GRSM-PKnob Upper Plot
+27,8182,3,Increasing leaf size,1172,Flowers or flower buds,14,0.4432104354819598,0.0310512683870737,red maple,yellow buckeye,GRSM-PKnob Upper Plot
+29,8182,3,Increasing leaf size,1174,Breaking leaf buds,14,0.4832681048178826,0.0177560329856441,red maple,Allegheny serviceberry,GRSM-PKnob Upper Plot
+34,8182,3,Falling leaves,93,Colored leaves,13,0.4313817631332017,0.0429155369136774,red maple,American basswood,GRSM-PKnob Upper Plot
+47,8182,3,Leaves,102,Breaking leaf buds,14,0.4971830761761255,0.015233283457063,red maple,northern red oak,GRSM-PKnob Upper Plot
+53,8182,3,Leaves,1172,Flowers or flower buds,14,0.4606741573033708,0.0239477828718304,red maple,yellow buckeye,GRSM-PKnob Upper Plot
+55,8182,3,Leaves,1174,Breaking leaf buds,14,0.4778072729642601,0.0182199720817427,red maple,Allegheny serviceberry,GRSM-PKnob Upper Plot
+75,8182,28,Breaking leaf buds,93,Leaves,14,0.4571503208824944,0.0269192474938744,black cherry,American basswood,GRSM-PKnob Upper Plot
+113,8182,28,Leaves,1172,Breaking leaf buds,14,0.4157303370786517,0.0415822876912835,black cherry,yellow buckeye,GRSM-PKnob Upper Plot
+125,8182,28,Colored leaves,1172,Colored leaves,13,0.4736842105263156,0.0269224584570869,black cherry,yellow buckeye,GRSM-PKnob Upper Plot
+129,8182,93,Breaking leaf buds,102,Breaking leaf buds,14,0.5028653529707438,0.0149348328243508,American basswood,northern red oak,GRSM-PKnob Upper Plot
+132,8182,93,Breaking leaf buds,1172,Breaking leaf buds,14,0.477303545903649,0.020344656964648,American basswood,yellow buckeye,GRSM-PKnob Upper Plot
+134,8182,93,Breaking leaf buds,1172,Leaves,14,0.5142941109928062,0.0128004766603399,American basswood,yellow buckeye,GRSM-PKnob Upper Plot
+137,8182,93,Breaking leaf buds,1174,Breaking leaf buds,14,0.415835346006085,0.0415686954327401,American basswood,Allegheny serviceberry,GRSM-PKnob Upper Plot
+143,8182,93,Leaves,1172,Breaking leaf buds,14,0.465939175763086,0.0235314820387909,American basswood,yellow buckeye,GRSM-PKnob Upper Plot
+158,8182,102,Breaking leaf buds,1172,Breaking leaf buds,14,0.5536811530143216,0.0068808604756035,northern red oak,yellow buckeye,GRSM-PKnob Upper Plot
+159,8182,102,Breaking leaf buds,1172,Increasing leaf size,14,0.409090909090909,0.0467588264278091,northern red oak,yellow buckeye,GRSM-PKnob Upper Plot
+160,8182,102,Breaking leaf buds,1172,Leaves,14,0.5454545454545454,0.0080181568902596,northern red oak,yellow buckeye,GRSM-PKnob Upper Plot
+163,8182,102,Breaking leaf buds,1174,Breaking leaf buds,14,0.4916891718944416,0.0155342815979434,northern red oak,Allegheny serviceberry,GRSM-PKnob Upper Plot
+172,8182,102,Increasing leaf size,1174,Increasing leaf size,14,0.4161919241438186,0.0453519881067274,northern red oak,Allegheny serviceberry,GRSM-PKnob Upper Plot
+174,8182,102,Falling leaves,1172,Falling leaves,13,0.588348405414552,0.005764983650937,northern red oak,yellow buckeye,GRSM-PKnob Upper Plot
+177,8182,102,Falling leaves,1174,Falling leaves,13,0.4516223023309454,0.0324116955062126,northern red oak,Allegheny serviceberry,GRSM-PKnob Upper Plot
+185,8182,102,Leaves,1174,Increasing leaf size,14,0.439313697707364,0.0346382273288953,northern red oak,Allegheny serviceberry,GRSM-PKnob Upper Plot
+186,8182,102,Leaves,1174,Leaves,14,0.4205631760067919,0.0407629831211741,northern red oak,Allegheny serviceberry,GRSM-PKnob Upper Plot
+187,8182,102,Colored leaves,1172,Falling leaves,13,0.4210890847742521,0.0492017802853333,northern red oak,yellow buckeye,GRSM-PKnob Upper Plot
+198,8182,1172,Falling leaves,1174,Falling leaves,13,0.802701067850918,0.0001773382188788,yellow buckeye,Allegheny serviceberry,GRSM-PKnob Upper Plot
+204,8182,1172,Colored leaves,1174,Colored leaves,13,0.4473684210526314,0.0366433384598118,yellow buckeye,Allegheny serviceberry,GRSM-PKnob Upper Plot
+208,8182,1172,Open flowers,1174,Breaking leaf buds,14,0.4246406484542904,0.0366428344855158,yellow buckeye,Allegheny serviceberry,GRSM-PKnob Upper Plot
+213,8806,3,Increasing leaf size,12,Increasing leaf size,14,0.4745838454408471,0.0205322649786096,red maple,flowering dogwood,GRSM-Tremont-Nature Trail 
+216,8806,3,Increasing leaf size,81,Increasing leaf size,14,0.4772727272727272,0.0203467612302907,red maple,sweetgum,GRSM-Tremont-Nature Trail 
+219,8806,3,Increasing leaf size,82,Increasing leaf size,14,0.4406849993379294,0.031475101641879,red maple,tuliptree,GRSM-Tremont-Nature Trail 
+234,8806,3,Leaves,12,Leaves,15,0.4174954050920819,0.0324865313243188,red maple,flowering dogwood,GRSM-Tremont-Nature Trail 
+237,8806,3,Leaves,82,Leaves,15,0.4878106818986775,0.0127933122991969,red maple,tuliptree,GRSM-Tremont-Nature Trail 
+250,8806,12,Increasing leaf size,81,Increasing leaf size,14,0.6892765374259923,0.0007670850531177,flowering dogwood,sweetgum,GRSM-Tremont-Nature Trail 
+252,8806,12,Increasing leaf size,82,Breaking leaf buds,14,0.50561797752809,0.0132026637451969,flowering dogwood,tuliptree,GRSM-Tremont-Nature Trail 
+254,8806,12,Increasing leaf size,823,Breaking leaf buds,14,0.4067861532350118,0.0470831681868926,flowering dogwood,American hornbeam,GRSM-Tremont-Nature Trail 
+255,8806,12,Increasing leaf size,823,Increasing leaf size,14,0.4357609900500941,0.0319814186461884,flowering dogwood,American hornbeam,GRSM-Tremont-Nature Trail 
+263,8806,12,Falling leaves,82,Falling leaves,13,0.5695489135379688,0.0081028659340265,flowering dogwood,tuliptree,GRSM-Tremont-Nature Trail 
+274,8806,12,Colored leaves,81,Colored leaves,14,0.6628679652796168,0.001319643061989,flowering dogwood,sweetgum,GRSM-Tremont-Nature Trail 
+279,8806,12,Colored leaves,823,Colored leaves,14,0.8323838482876372,6.26104290686615e-05,flowering dogwood,American hornbeam,GRSM-Tremont-Nature Trail 
+280,8806,12,Colored leaves,1192,Increasing leaf size,14,-0.4068381021724862,0.0468521510588554,flowering dogwood,winged elm,GRSM-Tremont-Nature Trail 
+281,8806,12,Colored leaves,1192,Colored leaves,14,0.5600091430810556,0.0066059928297404,flowering dogwood,winged elm,GRSM-Tremont-Nature Trail 
+283,8806,61,Increasing leaf size,81,Colored leaves,14,-0.4971830761761255,0.015233283457063,sugar maple,sweetgum,GRSM-Tremont-Nature Trail 
+288,8806,61,Increasing leaf size,823,Colored leaves,14,-0.4114890395670648,0.0462045765852813,sugar maple,American hornbeam,GRSM-Tremont-Nature Trail 
+289,8806,61,Increasing leaf size,1192,Increasing leaf size,14,0.6480548057155245,0.0014253454469424,sugar maple,winged elm,GRSM-Tremont-Nature Trail 
+294,8806,61,Falling leaves,100,Increasing leaf size,13,0.421089084774252,0.0492017802853333,sugar maple,white oak,GRSM-Tremont-Nature Trail 
+300,8806,61,Leaves,1192,Leaves,15,0.5784313725490197,0.0032446170979626,sugar maple,winged elm,GRSM-Tremont-Nature Trail 
+308,8806,81,Increasing leaf size,82,Breaking leaf buds,14,0.5762803837496,0.0049102360947263,sweetgum,tuliptree,GRSM-Tremont-Nature Trail 
+311,8806,81,Increasing leaf size,823,Increasing leaf size,14,0.4719399037242694,0.0207184154312571,sweetgum,American hornbeam,GRSM-Tremont-Nature Trail 
+316,8806,81,Falling leaves,82,Falling leaves,13,0.5263157894736842,0.0139522990373366,sweetgum,tuliptree,GRSM-Tremont-Nature Trail 
+327,8806,81,Colored leaves,823,Colored leaves,14,0.827640881769065,6.528965590078832e-05,sweetgum,American hornbeam,GRSM-Tremont-Nature Trail 
+329,8806,81,Colored leaves,1192,Colored leaves,14,0.5,0.0149810150532012,sweetgum,winged elm,GRSM-Tremont-Nature Trail 
+339,8806,82,Increasing leaf size,823,Increasing leaf size,14,0.5698412946808924,0.0050389548883497,tuliptree,American hornbeam,GRSM-Tremont-Nature Trail 
+346,8806,82,Leaves,823,Leaves,15,0.6601941747572816,0.000720722551589,tuliptree,American hornbeam,GRSM-Tremont-Nature Trail 
+349,8806,100,Increasing leaf size,1192,Falling leaves,13,0.4675324675324674,0.0274900586481659,white oak,winged elm,GRSM-Tremont-Nature Trail 
+356,8806,823,Colored leaves,1192,Increasing leaf size,14,-0.4205631760067919,0.0407629831211741,American hornbeam,winged elm,GRSM-Tremont-Nature Trail 
+357,8806,823,Colored leaves,1192,Colored leaves,14,0.6667107103139691,0.001283074400331,American hornbeam,winged elm,GRSM-Tremont-Nature Trail 
+358,8836,3,Leaves,81,Leaves,13,0.4475234075187578,0.0363888662007085,red maple,sweetgum,GRSM-Sugarlands Nature Trail
+359,8836,3,Leaves,82,Leaves,13,0.4832323597540974,0.0257125123476664,red maple,tuliptree,GRSM-Sugarlands Nature Trail
+360,8836,3,Leaves,823,Leaves,13,0.4267045976501319,0.0480891520533275,red maple,American hornbeam,GRSM-Sugarlands Nature Trail
+368,8836,81,Increasing leaf size,82,Increasing leaf size,11,0.697277051246695,0.0030042622393982,sweetgum,tuliptree,GRSM-Sugarlands Nature Trail
+371,8836,81,Leaves,82,Leaves,13,0.6667948594698255,0.0017308539731672,sweetgum,tuliptree,GRSM-Sugarlands Nature Trail
+372,8836,81,Leaves,823,Leaves,13,0.4675719001195179,0.0274863361115103,sweetgum,American hornbeam,GRSM-Sugarlands Nature Trail
+373,8836,81,Colored leaves,82,Colored leaves,12,0.5151515151515151,0.0209803516313932,sweetgum,tuliptree,GRSM-Sugarlands Nature Trail
+376,8836,82,Leaves,823,Leaves,13,0.4370956778314643,0.041894193197355,tuliptree,American hornbeam,GRSM-Sugarlands Nature Trail
+378,8899,61,Leaves,79,Leaves,13,0.4935064935064934,0.0199674304931967,sugar maple,American beech,GRSM-Newfound Gap
+379,8899,61,Leaves,1172,Leaves,13,0.7058974305816028,0.0009234420576988,sugar maple,yellow buckeye,GRSM-Newfound Gap
+380,8899,61,Leaves,1174,Leaves,13,0.802701067850918,0.0001740230340733,sugar maple,Allegheny serviceberry,GRSM-Newfound Gap
+381,8899,79,Leaves,1172,Leaves,13,0.6143922080988024,0.0039337873085607,American beech,yellow buckeye,GRSM-Newfound Gap
+382,8899,79,Leaves,1174,Leaves,13,0.631633627161378,0.0031370371316716,American beech,Allegheny serviceberry,GRSM-Newfound Gap
+383,8899,1172,Leaves,1174,Leaves,13,0.8212100613803269,0.0001320921844935,yellow buckeye,Allegheny serviceberry,GRSM-Newfound Gap
+384,8901,91,Increasing leaf size,1199,Increasing leaf size,12,0.6929348671835832,0.0022316179323638,American mountain ash,mountain maple,GRSM-Clingmans Dome Rd.
+386,8901,91,Leaves,97,Leaves,13,0.5621035095372022,0.0083390347056485,American mountain ash,yellow birch,GRSM-Clingmans Dome Rd.
+389,8901,91,Leaves,1189,Leaves,13,0.4474071525726428,0.0366387901587302,American mountain ash,pin cherry,GRSM-Clingmans Dome Rd.
+391,8901,91,Leaves,1199,Leaves,13,0.7189696052220028,0.0007402559106148,American mountain ash,mountain maple,GRSM-Clingmans Dome Rd.
+398,8901,91,Colored leaves,1189,Colored leaves,13,0.516567619255367,0.016330215477267,American mountain ash,pin cherry,GRSM-Clingmans Dome Rd.
+399,8901,91,Colored leaves,1199,Leaves,13,0.5960395606792696,0.0055900820170959,American mountain ash,mountain maple,GRSM-Clingmans Dome Rd.
+401,8901,97,Falling leaves,1189,Falling leaves,13,0.7248485396311461,0.0008331759151342,yellow birch,pin cherry,GRSM-Clingmans Dome Rd.
+409,8901,97,Leaves,1199,Leaves,13,0.5526315789473683,0.0098396614128719,yellow birch,mountain maple,GRSM-Clingmans Dome Rd.
+412,8901,97,Colored leaves,1189,Leaves,13,-0.4503410014021148,0.0362980985292846,yellow birch,pin cherry,GRSM-Clingmans Dome Rd.
+418,8901,1189,Leaves,1199,Leaves,13,0.4635863249727652,0.0311502591754897,pin cherry,mountain maple,GRSM-Clingmans Dome Rd.
+421,8901,1189,Colored leaves,1199,Colored leaves,13,0.6578947368421051,0.0021183935974864,pin cherry,mountain maple,GRSM-Clingmans Dome Rd.
+425,8902,3,Increasing leaf size,12,Leaves,12,0.5846845821518305,0.0088421741541674,red maple,flowering dogwood,GRSM-Mingus Mill
+427,8902,3,Increasing leaf size,68,Leaves,12,0.5539117094069973,0.0131271093915706,red maple,shagbark hickory,GRSM-Mingus Mill
+436,8902,3,Leaves,68,Leaves,12,0.7287040657115997,0.0011718251821904,red maple,shagbark hickory,GRSM-Mingus Mill
+438,8902,3,Leaves,102,Increasing leaf size,12,0.5038314736557788,0.0233149963825438,red maple,northern red oak,GRSM-Mingus Mill
+439,8902,3,Leaves,102,Leaves,12,0.4923076923076924,0.027479806211379,red maple,northern red oak,GRSM-Mingus Mill
+442,8902,3,Leaves,1187,Leaves,12,0.4923076923076924,0.027479806211379,red maple,sourwood,GRSM-Mingus Mill
+462,8902,68,Leaves,102,Increasing leaf size,12,0.5231388366621641,0.0191546447804258,shagbark hickory,northern red oak,GRSM-Mingus Mill
+463,8902,68,Leaves,102,Leaves,12,0.5116432801804849,0.022675321110971,shagbark hickory,northern red oak,GRSM-Mingus Mill
+465,8902,68,Leaves,1187,Increasing leaf size,12,0.6356780147696934,0.0046357429770426,shagbark hickory,sourwood,GRSM-Mingus Mill
+466,8902,68,Leaves,1187,Leaves,12,0.5736606474750892,0.0106161341700328,shagbark hickory,sourwood,GRSM-Mingus Mill
+477,8902,102,Increasing leaf size,1187,Leaves,12,0.442760992000533,0.0462290605523907,northern red oak,sourwood,GRSM-Mingus Mill
+483,8903,12,Leaves,79,Leaves,12,0.546875,0.0154106570520779,flowering dogwood,American beech,GRSM-Deep creek 
+484,8903,12,Leaves,100,Leaves,12,0.453125,0.04471964048599,flowering dogwood,white oak,GRSM-Deep creek 
+485,8903,79,Leaves,100,Leaves,12,0.703125,0.0018410212585438,American beech,white oak,GRSM-Deep creek 
+489,8904,28,Increasing leaf size,1172,Increasing leaf size,13,0.7785410240482681,0.0003261078686802,black cherry,yellow buckeye,GRSM-OVC
+490,8904,28,Increasing leaf size,1172,Leaves,13,0.5540540540540541,0.0109290105101839,black cherry,yellow buckeye,GRSM-OVC
+491,8904,28,Falling leaves,93,Falling leaves,11,0.7222222222222222,0.0022540189597224,black cherry,American basswood,GRSM-OVC
+496,8904,28,Colored leaves,1172,Colored leaves,11,0.6481481481481481,0.0061204298832061,black cherry,yellow buckeye,GRSM-OVC
+510,9338,3,Breaking leaf buds,823,Breaking leaf buds,13,0.6143922080988025,0.0039337873085607,red maple,American hornbeam,GRSM-Tremont-Lagoons
+511,9338,3,Increasing leaf size,81,Increasing leaf size,12,0.442760992000533,0.0462290605523907,red maple,sweetgum,GRSM-Tremont-Lagoons
+512,9338,3,Increasing leaf size,98,Breaking leaf buds,12,0.5757575757575757,0.0087577327507883,red maple,sweet birch,GRSM-Tremont-Lagoons
+514,9338,3,Increasing leaf size,823,Increasing leaf size,12,0.5649019553110248,0.0109851589729484,red maple,American hornbeam,GRSM-Tremont-Lagoons
+517,9338,3,Falling leaves,76,Colored leaves,12,0.6201736729460423,0.0057403462859958,red maple,American witchhazel,GRSM-Tremont-Lagoons
+519,9338,3,Falling leaves,98,Falling leaves,12,0.6153846153846154,0.0058550185971252,red maple,sweet birch,GRSM-Tremont-Lagoons
+521,9338,3,Falling leaves,970,Colored leaves,12,0.5625686771261945,0.0125645741505303,red maple,American sycamore,GRSM-Tremont-Lagoons
+523,9338,3,Falling leaves,1192,Falling leaves,12,0.4615384615384615,0.0387488436156419,red maple,winged elm,GRSM-Tremont-Lagoons
+524,9338,3,Falling leaves,1192,Colored leaves,12,0.5116432801804849,0.022675321110971,red maple,winged elm,GRSM-Tremont-Lagoons
+527,9338,3,Leaves,81,Leaves,14,0.6179775280898877,0.0024538198087407,red maple,sweetgum,GRSM-Tremont-Lagoons
+529,9338,3,Leaves,823,Leaves,14,0.6778196197865085,0.0008095994510415,red maple,American hornbeam,GRSM-Tremont-Lagoons
+536,9338,3,Colored leaves,98,Falling leaves,12,0.8438530156892918,0.0001812454824754,red maple,sweet birch,GRSM-Tremont-Lagoons
+537,9338,3,Colored leaves,941,Colored leaves,12,0.5354496700964052,0.0181450607327122,red maple,blackgum,GRSM-Tremont-Lagoons
+538,9338,3,Colored leaves,970,Colored leaves,12,0.5555555555555555,0.0146185963490601,red maple,American sycamore,GRSM-Tremont-Lagoons
+541,9338,3,Colored leaves,1192,Colored leaves,12,0.7244319066010189,0.001390965794545,red maple,winged elm,GRSM-Tremont-Lagoons
+542,9338,60,Leaves,76,Leaves,14,0.6437206858203839,0.0018993600280759,striped maple,American witchhazel,GRSM-Tremont-Lagoons
+543,9338,60,Leaves,81,Leaves,14,0.4067861532350118,0.0470831681868926,striped maple,sweetgum,GRSM-Tremont-Lagoons
+547,9338,60,Leaves,970,Leaves,14,0.5142941109928062,0.0127092012460418,striped maple,American sycamore,GRSM-Tremont-Lagoons
+549,9338,60,Leaves,1192,Leaves,14,0.5942954171472428,0.0039839305780109,striped maple,winged elm,GRSM-Tremont-Lagoons
+556,9338,76,Leaves,1192,Leaves,14,0.5433616787433188,0.0089775910007405,American witchhazel,winged elm,GRSM-Tremont-Lagoons
+560,9338,76,Colored leaves,970,Colored leaves,12,0.551198189805123,0.015010146495452,American witchhazel,American sycamore,GRSM-Tremont-Lagoons
+561,9338,76,Colored leaves,1187,Colored leaves,12,0.4496259128858806,0.0452164215340268,American witchhazel,sourwood,GRSM-Tremont-Lagoons
+569,9338,81,Falling leaves,98,Falling leaves,12,0.4923076923076924,0.027479806211379,sweetgum,sweet birch,GRSM-Tremont-Lagoons
+576,9338,81,Leaves,823,Leaves,14,0.4778072729642601,0.0182199720817427,sweetgum,American hornbeam,GRSM-Tremont-Lagoons
+581,9338,98,Breaking leaf buds,823,Increasing leaf size,12,0.5038314736557788,0.0233149963825438,sweet birch,American hornbeam,GRSM-Tremont-Lagoons
+587,9338,98,Falling leaves,941,Colored leaves,12,0.542651963827787,0.0156501377233771,sweet birch,blackgum,GRSM-Tremont-Lagoons
+588,9338,98,Falling leaves,970,Colored leaves,12,0.5000610463343952,0.0265167833177904,sweet birch,American sycamore,GRSM-Tremont-Lagoons
+591,9338,98,Falling leaves,1192,Colored leaves,12,0.8527388003008082,0.0001458083832771,sweet birch,winged elm,GRSM-Tremont-Lagoons
+593,9338,98,Leaves,941,Leaves,14,0.6966292134831461,0.0006390269269145,sweet birch,blackgum,GRSM-Tremont-Lagoons
+594,9338,98,Leaves,970,Leaves,14,0.6591334681526582,0.0013413806058796,sweet birch,American sycamore,GRSM-Tremont-Lagoons
+595,9338,98,Leaves,1187,Leaves,14,0.6033613708385918,0.0029827957416864,sweet birch,sourwood,GRSM-Tremont-Lagoons
+603,9338,941,Breaking leaf buds,970,Increasing leaf size,12,0.6407032156159438,0.0044757309061251,blackgum,American sycamore,GRSM-Tremont-Lagoons
+604,9338,941,Increasing leaf size,1187,Increasing leaf size,11,0.7592592592592592,0.0013218707803182,blackgum,sourwood,GRSM-Tremont-Lagoons
+605,9338,941,Leaves,970,Leaves,14,0.5568541368875906,0.0067416802624623,blackgum,American sycamore,GRSM-Tremont-Lagoons
+606,9338,941,Leaves,1187,Leaves,14,0.860348621380955,2.2927009396279727e-05,blackgum,sourwood,GRSM-Tremont-Lagoons
+607,9338,941,Leaves,1192,Leaves,14,0.4204816952008337,0.0407731299357251,blackgum,winged elm,GRSM-Tremont-Lagoons
+611,9338,941,Colored leaves,1192,Colored leaves,12,0.578125,0.0104366845302862,blackgum,winged elm,GRSM-Tremont-Lagoons
+613,9338,970,Leaves,1187,Leaves,14,0.5198486861092879,0.0110930169574891,American sycamore,sourwood,GRSM-Tremont-Lagoons
+614,9338,970,Leaves,1192,Leaves,14,0.4137931034482758,0.0456706320607131,American sycamore,winged elm,GRSM-Tremont-Lagoons
+617,9338,970,Colored leaves,1192,Colored leaves,12,0.5354496700964052,0.0181450607327122,American sycamore,winged elm,GRSM-Tremont-Lagoons
+619,9338,1187,Colored leaves,1192,Falling leaves,12,0.7692307692307693,0.0005716084710595,sourwood,winged elm,GRSM-Tremont-Lagoons
+621,9339,3,Increasing leaf size,60,Increasing leaf size,13,0.4933333333333333,0.0224619796284798,red maple,striped maple,GRSM-Tremont-West Prong
+623,9339,3,Increasing leaf size,823,Increasing leaf size,13,0.4266666666666666,0.048379168757838,red maple,American hornbeam,GRSM-Tremont-West Prong
+627,9339,3,Falling leaves,61,Falling leaves,12,0.5038314736557788,0.0233149963825438,red maple,sugar maple,GRSM-Tremont-West Prong
+628,9339,3,Falling leaves,61,Colored leaves,12,0.7786486411043856,0.0004558338469379,red maple,sugar maple,GRSM-Tremont-West Prong
+633,9339,3,Falling leaves,823,Falling leaves,12,0.5343667144834019,0.0161414304530507,red maple,American hornbeam,GRSM-Tremont-West Prong
+634,9339,3,Falling leaves,1172,Falling leaves,12,0.4615930911724977,0.0387418384632915,red maple,yellow buckeye,GRSM-Tremont-West Prong
+636,9339,3,Falling leaves,1181,Falling leaves,12,0.5649019553110248,0.0109851589729484,red maple,Carolina silverbell,GRSM-Tremont-West Prong
+637,9339,3,Falling leaves,1184,Falling leaves,12,0.5649019553110248,0.0109851589729484,red maple,mountain magnolia,GRSM-Tremont-West Prong
+638,9339,3,Leaves,60,Leaves,14,0.5142941109928062,0.0128004766603399,red maple,striped maple,GRSM-Tremont-West Prong
+642,9339,3,Leaves,823,Leaves,14,0.4571503208824943,0.0269192474938744,red maple,American hornbeam,GRSM-Tremont-West Prong
+646,9339,3,Colored leaves,61,Falling leaves,12,0.5116432801804849,0.022675321110971,red maple,sugar maple,GRSM-Tremont-West Prong
+647,9339,3,Colored leaves,61,Colored leaves,12,0.8682431421244593,0.0001101109572748,red maple,sugar maple,GRSM-Tremont-West Prong
+655,9339,3,Colored leaves,1181,Falling leaves,12,0.6356780147696934,0.0046357429770426,red maple,Carolina silverbell,GRSM-Tremont-West Prong
+656,9339,3,Colored leaves,1184,Falling leaves,12,0.4806345965331828,0.0322943377269403,red maple,mountain magnolia,GRSM-Tremont-West Prong
+658,9339,60,Increasing leaf size,823,Increasing leaf size,13,0.4933333333333333,0.0224619796284798,striped maple,American hornbeam,GRSM-Tremont-West Prong
+661,9339,60,Falling leaves,61,Colored leaves,12,0.4531803232405456,0.0443710501453709,striped maple,sugar maple,GRSM-Tremont-West Prong
+665,9339,60,Falling leaves,98,Colored leaves,12,0.6875839387097933,0.0022844715356567,striped maple,sweet birch,GRSM-Tremont-West Prong
+669,9339,60,Falling leaves,1181,Falling leaves,12,0.5000610463343951,0.0265167833177904,striped maple,Carolina silverbell,GRSM-Tremont-West Prong
+674,9339,60,Leaves,823,Leaves,14,0.4772727272727272,0.0203467612302907,striped maple,American hornbeam,GRSM-Tremont-West Prong
+678,9339,60,Colored leaves,82,Falling leaves,12,0.7131997238879487,0.0014901532666585,striped maple,tuliptree,GRSM-Tremont-West Prong
+679,9339,60,Colored leaves,82,Colored leaves,12,0.7442084075352507,0.0009173919133463,striped maple,tuliptree,GRSM-Tremont-West Prong
+681,9339,60,Colored leaves,98,Colored leaves,12,0.5384615384615385,0.015894976127587,striped maple,sweet birch,GRSM-Tremont-West Prong
+685,9339,60,Colored leaves,1181,Falling leaves,12,0.5538461538461539,0.0131303936072489,striped maple,Carolina silverbell,GRSM-Tremont-West Prong
+698,9339,61,Leaves,823,Leaves,14,0.6782057225607617,0.0010682677458882,sugar maple,American hornbeam,GRSM-Tremont-West Prong
+707,9339,61,Colored leaves,1181,Falling leaves,12,0.5846153846153846,0.0088446140171789,sugar maple,Carolina silverbell,GRSM-Tremont-West Prong
+709,9339,82,Increasing leaf size,823,Increasing leaf size,13,0.5637710863797804,0.0093504253016073,tuliptree,American hornbeam,GRSM-Tremont-West Prong
+712,9339,82,Falling leaves,98,Colored leaves,12,0.4961389383568338,0.0271187165445825,tuliptree,sweet birch,GRSM-Tremont-West Prong
+716,9339,82,Falling leaves,1181,Falling leaves,12,0.5736606474750892,0.0106161341700328,tuliptree,Carolina silverbell,GRSM-Tremont-West Prong
+721,9339,82,Colored leaves,93,Falling leaves,12,0.5116432801804849,0.022675321110971,tuliptree,American basswood,GRSM-Tremont-West Prong
+722,9339,82,Colored leaves,98,Colored leaves,12,0.6511823565933444,0.0037272392778565,tuliptree,sweet birch,GRSM-Tremont-West Prong
+728,9339,93,Falling leaves,98,Colored leaves,12,0.4923076923076924,0.027479806211379,American basswood,sweet birch,GRSM-Tremont-West Prong
+735,9339,93,Leaves,1184,Leaves,14,0.4827905143652879,0.0198511077412297,American basswood,mountain magnolia,GRSM-Tremont-West Prong
+736,9339,93,Colored leaves,823,Colored leaves,11,0.587180674734059,0.0124621582945403,American basswood,American hornbeam,GRSM-Tremont-West Prong
+741,9339,98,Colored leaves,1181,Falling leaves,12,0.5846153846153846,0.0088446140171789,sweet birch,Carolina silverbell,GRSM-Tremont-West Prong
+744,9339,823,Falling leaves,1172,Falling leaves,12,0.5116432801804849,0.022675321110971,American hornbeam,yellow buckeye,GRSM-Tremont-West Prong
+751,9339,1172,Falling leaves,1184,Falling leaves,12,0.5736606474750892,0.0106161341700328,yellow buckeye,mountain magnolia,GRSM-Tremont-West Prong
+760,9340,3,Leaves,102,Leaves,15,0.6169230579301932,0.0018897717591348,red maple,northern red oak,GRSM-Tremont-Marcs Trail
+762,9340,102,Increasing leaf size,1187,Increasing leaf size,12,0.546875,0.0154106570520779,northern red oak,sourwood,GRSM-Tremont-Marcs Trail
+763,9340,102,Leaves,1212,Leaves,15,0.423691589610646,0.0317173065166482,northern red oak,chestnut oak,GRSM-Tremont-Marcs Trail
+769,9341,3,Breaking leaf buds,67,Breaking leaf buds,12,0.4806345965331828,0.0322943377269403,red maple,pignut hickory,GRSM-Tremont-Falls Trail
+773,9341,3,Increasing leaf size,60,Increasing leaf size,13,0.8079647378096765,0.0001725714300493,red maple,striped maple,GRSM-Tremont-Falls Trail
+775,9341,3,Increasing leaf size,61,Increasing leaf size,13,0.9999999999999998,2.9954815934341095e-06,red maple,sugar maple,GRSM-Tremont-Falls Trail
+776,9341,3,Increasing leaf size,67,Increasing leaf size,13,0.4768316485434156,0.0264506523232998,red maple,pignut hickory,GRSM-Tremont-Falls Trail
+783,9341,3,Increasing leaf size,1179,Increasing leaf size,13,0.4575261124140018,0.0317749803468738,red maple,Kentucky yellowwood,GRSM-Tremont-Falls Trail
+788,9341,3,Leaves,12,Leaves,14,0.4269932462267199,0.0363684588239646,red maple,flowering dogwood,GRSM-Tremont-Falls Trail
+789,9341,3,Leaves,60,Leaves,14,0.6477272727272727,0.0016415349519749,red maple,striped maple,GRSM-Tremont-Falls Trail
+790,9341,3,Leaves,61,Leaves,14,0.8068181818181818,8.791878910231842e-05,red maple,sugar maple,GRSM-Tremont-Falls Trail
+795,9341,3,Leaves,102,Leaves,14,0.5084826915437648,0.0130669594937223,red maple,northern red oak,GRSM-Tremont-Falls Trail
+797,9341,3,Leaves,1179,Leaves,14,0.5536811530143216,0.0068808604756035,red maple,Kentucky yellowwood,GRSM-Tremont-Falls Trail
+799,9341,7,Breaking leaf buds,12,Breaking leaf buds,12,0.8308675641104959,0.0001988655780316,eastern redbud,flowering dogwood,GRSM-Tremont-Falls Trail
+801,9341,7,Falling leaves,12,Colored leaves,12,-0.4496259128858806,0.0452164215340268,eastern redbud,flowering dogwood,GRSM-Tremont-Falls Trail
+811,9341,7,Leaves,12,Leaves,14,0.4181391605661663,0.041273323179519,eastern redbud,flowering dogwood,GRSM-Tremont-Falls Trail
+816,9341,7,Leaves,81,Leaves,14,0.4367816091954022,0.0352796485189116,eastern redbud,sweetgum,GRSM-Tremont-Falls Trail
+821,9341,7,Leaves,1181,Leaves,14,0.4685790789045567,0.0233289659987657,eastern redbud,Carolina silverbell,GRSM-Tremont-Falls Trail
+828,9341,7,Colored leaves,81,Falling leaves,12,0.5038314736557788,0.0233149963825438,eastern redbud,sweetgum,GRSM-Tremont-Falls Trail
+844,9341,12,Leaves,67,Leaves,14,0.5910617608744103,0.004035606668433,flowering dogwood,pignut hickory,GRSM-Tremont-Falls Trail
+851,9341,12,Leaves,1181,Leaves,14,0.4382299106011073,0.0317251128481159,flowering dogwood,Carolina silverbell,GRSM-Tremont-Falls Trail
+856,9341,12,Colored leaves,81,Falling leaves,12,0.5231388366621641,0.0191546447804258,flowering dogwood,sweetgum,GRSM-Tremont-Falls Trail
+857,9341,12,Colored leaves,93,Falling leaves,12,0.515625,0.0223628034372094,flowering dogwood,American basswood,GRSM-Tremont-Falls Trail
+859,9341,12,Colored leaves,1019,Colored leaves,12,0.4496259128858806,0.0452164215340268,flowering dogwood,sassafras,GRSM-Tremont-Falls Trail
+872,9341,60,Breaking leaf buds,1181,Breaking leaf buds,13,0.5359591602564021,0.0118922194498718,striped maple,Carolina silverbell,GRSM-Tremont-Falls Trail
+875,9341,60,Increasing leaf size,61,Increasing leaf size,13,0.8079647378096765,0.0001725714300493,striped maple,sugar maple,GRSM-Tremont-Falls Trail
+883,9341,60,Increasing leaf size,1179,Increasing leaf size,13,0.5263613559678151,0.0139499858555877,striped maple,Kentucky yellowwood,GRSM-Tremont-Falls Trail
+887,9341,60,Leaves,61,Leaves,14,0.8409090909090908,4.361830449462126e-05,striped maple,sugar maple,GRSM-Tremont-Falls Trail
+892,9341,60,Leaves,102,Leaves,14,0.5536811530143216,0.0068808604756035,striped maple,northern red oak,GRSM-Tremont-Falls Trail
+893,9341,60,Leaves,1019,Leaves,14,0.4406849993379294,0.031475101641879,striped maple,sassafras,GRSM-Tremont-Falls Trail
+894,9341,60,Leaves,1179,Leaves,14,0.5649807683819609,0.0058207786378544,striped maple,Kentucky yellowwood,GRSM-Tremont-Falls Trail
+915,9341,61,Increasing leaf size,67,Increasing leaf size,13,0.4768316485434156,0.0264506523232998,sugar maple,pignut hickory,GRSM-Tremont-Falls Trail
+922,9341,61,Increasing leaf size,1179,Increasing leaf size,13,0.4575261124140018,0.0317749803468738,sugar maple,Kentucky yellowwood,GRSM-Tremont-Falls Trail
+930,9341,61,Leaves,102,Leaves,14,0.6666773066907138,0.0011375304305913,sugar maple,northern red oak,GRSM-Tremont-Falls Trail
+931,9341,61,Leaves,1019,Leaves,14,0.5536811530143216,0.0068808604756035,sugar maple,sassafras,GRSM-Tremont-Falls Trail
+932,9341,61,Leaves,1179,Leaves,14,0.4519846147055687,0.0273722309155083,sugar maple,Kentucky yellowwood,GRSM-Tremont-Falls Trail
+936,9341,67,Increasing leaf size,74,Increasing leaf size,13,0.5960395606792696,0.0055301394883185,pignut hickory,white ash,GRSM-Tremont-Falls Trail
+940,9341,67,Increasing leaf size,1019,Increasing leaf size,13,0.5789974915645967,0.0067727649705807,pignut hickory,sassafras,GRSM-Tremont-Falls Trail
+942,9341,67,Increasing leaf size,1179,Increasing leaf size,13,0.421089084774252,0.0489163091000911,pignut hickory,Kentucky yellowwood,GRSM-Tremont-Falls Trail
+949,9341,67,Falling leaves,102,Colored leaves,12,0.4615930911724977,0.0387418384632915,pignut hickory,northern red oak,GRSM-Tremont-Falls Trail
+958,9341,67,Leaves,1181,Leaves,14,0.4253154531313251,0.0401822540665128,pignut hickory,Carolina silverbell,GRSM-Tremont-Falls Trail
+961,9341,67,Colored leaves,93,Falling leaves,12,0.4496259128858806,0.0452164215340268,pignut hickory,American basswood,GRSM-Tremont-Falls Trail
+968,9341,74,Increasing leaf size,1019,Increasing leaf size,13,0.6536087320200025,0.0021587816015316,white ash,sassafras,GRSM-Tremont-Falls Trail
+970,9341,74,Increasing leaf size,1179,Increasing leaf size,13,0.4313817631332017,0.0429155369136774,white ash,Kentucky yellowwood,GRSM-Tremont-Falls Trail
+976,9341,74,Leaves,102,Leaves,14,0.6292134831460675,0.0020420255759156,white ash,northern red oak,GRSM-Tremont-Falls Trail
+978,9341,74,Leaves,1179,Leaves,14,0.4157303370786517,0.0415822876912835,white ash,Kentucky yellowwood,GRSM-Tremont-Falls Trail
+979,9341,74,Leaves,1181,Leaves,14,0.4858834608084864,0.0177097807414464,white ash,Carolina silverbell,GRSM-Tremont-Falls Trail
+984,9341,74,Colored leaves,1181,Falling leaves,12,0.4806345965331828,0.0322943377269403,white ash,Carolina silverbell,GRSM-Tremont-Falls Trail
+985,9341,81,Breaking leaf buds,1019,Breaking leaf buds,12,0.527147622004136,0.0188787004087722,sweetgum,sassafras,GRSM-Tremont-Falls Trail
+987,9341,81,Increasing leaf size,1019,Increasing leaf size,13,0.4575261124140018,0.0317749803468738,sweetgum,sassafras,GRSM-Tremont-Falls Trail
+1004,9341,81,Colored leaves,1179,Breaking leaf buds,13,-0.5526315789473683,0.0098396614128719,sweetgum,Kentucky yellowwood,GRSM-Tremont-Falls Trail
+1017,9341,93,Falling leaves,1181,Falling leaves,12,-0.46875,0.0378478548216195,American basswood,Carolina silverbell,GRSM-Tremont-Falls Trail
+1018,9341,93,Leaves,102,Leaves,14,0.4719101123595506,0.0207205344782453,American basswood,northern red oak,GRSM-Tremont-Falls Trail
+1019,9341,93,Leaves,1019,Leaves,14,0.7640449438202248,0.0001804518970661,American basswood,sassafras,GRSM-Tremont-Falls Trail
+1022,9341,102,Leaves,1019,Leaves,14,0.4943820224719102,0.0153851758457616,northern red oak,sassafras,GRSM-Tremont-Falls Trail
+1023,9341,102,Leaves,1179,Leaves,14,0.4606741573033708,0.0239477828718304,northern red oak,Kentucky yellowwood,GRSM-Tremont-Falls Trail
+1044,9342,3,Breaking leaf buds,1159,Increasing leaf size,13,0.5467152657392316,0.011325469078429,red maple,black oak,GRSM-Tremont-Lumber Ridge
+1048,9342,3,Leaves,100,Leaves,15,0.4081632653061224,0.0426824510040119,red maple,white oak,GRSM-Tremont-Lumber Ridge
+1050,9342,3,Leaves,1159,Leaves,15,0.8061224489795918,6.256067533290831e-05,red maple,black oak,GRSM-Tremont-Lumber Ridge
+1055,9342,67,Leaves,1187,Leaves,15,0.5472704546154941,0.0058883099817624,pignut hickory,sourwood,GRSM-Tremont-Lumber Ridge
+1057,9342,100,Leaves,1159,Leaves,15,0.4795918367346938,0.0172425333820422,white oak,black oak,GRSM-Tremont-Lumber Ridge
+1058,9342,100,Leaves,1187,Leaves,15,0.3939594923753622,0.0492476523402328,white oak,sourwood,GRSM-Tremont-Lumber Ridge
+1071,9343,3,Increasing leaf size,82,Increasing leaf size,12,0.6154574548966636,0.005853245025574,red maple,tuliptree,GRSM-Tremont-Dorsey Branch
+1074,9343,3,Increasing leaf size,970,Increasing leaf size,12,0.703125,0.0018410212585438,red maple,American sycamore,GRSM-Tremont-Dorsey Branch
+1075,9343,3,Falling leaves,7,Falling leaves,12,0.542651963827787,0.0156501377233771,red maple,eastern redbud,GRSM-Tremont-Dorsey Branch
+1078,9343,3,Falling leaves,82,Colored leaves,12,0.46875,0.0378478548216195,red maple,tuliptree,GRSM-Tremont-Dorsey Branch
+1087,9343,3,Falling leaves,1179,Colored leaves,12,0.5625,0.0127098157395439,red maple,Kentucky yellowwood,GRSM-Tremont-Dorsey Branch
+1090,9343,3,Leaves,82,Leaves,15,0.5374797538821051,0.0068033015647178,red maple,tuliptree,GRSM-Tremont-Dorsey Branch
+1093,9343,3,Leaves,970,Leaves,15,0.6363961030678927,0.001518102761951,red maple,American sycamore,GRSM-Tremont-Dorsey Branch
+1094,9343,3,Leaves,1172,Leaves,15,0.6903642243895957,0.0006104291806716,red maple,yellow buckeye,GRSM-Tremont-Dorsey Branch
+1116,9343,7,Leaves,970,Leaves,15,0.48,0.0161145611769133,eastern redbud,American sycamore,GRSM-Tremont-Dorsey Branch
+1121,9343,79,Leaves,823,Leaves,15,0.4433551330755755,0.0247078776408849,American beech,American hornbeam,GRSM-Tremont-Dorsey Branch
+1124,9343,79,Leaves,1179,Leaves,15,0.8390343728657254,1.853115645672877e-05,American beech,Kentucky yellowwood,GRSM-Tremont-Dorsey Branch
+1125,9343,79,Colored leaves,81,Colored leaves,12,0.53125,0.018604354576073,American beech,sweetgum,GRSM-Tremont-Dorsey Branch
+1143,9343,81,Colored leaves,970,Falling leaves,12,0.7131997238879487,0.0014901532666585,sweetgum,American sycamore,GRSM-Tremont-Dorsey Branch
+1149,9343,82,Increasing leaf size,970,Increasing leaf size,12,0.4923659639173309,0.0274742390169435,tuliptree,American sycamore,GRSM-Tremont-Dorsey Branch
+1151,9343,82,Leaves,823,Leaves,15,0.4411976743693058,0.0248804606238546,tuliptree,American hornbeam,GRSM-Tremont-Dorsey Branch
+1152,9343,82,Leaves,970,Leaves,15,0.433544882392289,0.0279556804901465,tuliptree,American sycamore,GRSM-Tremont-Dorsey Branch
+1153,9343,82,Leaves,1172,Leaves,15,0.5050495243689607,0.0107507283453538,tuliptree,yellow buckeye,GRSM-Tremont-Dorsey Branch
+1163,9343,82,Colored leaves,1179,Colored leaves,12,0.46875,0.0378478548216195,tuliptree,Kentucky yellowwood,GRSM-Tremont-Dorsey Branch
+1172,9343,93,Colored leaves,98,Colored leaves,12,0.46875,0.0378478548216195,American basswood,sweet birch,GRSM-Tremont-Dorsey Branch
+1178,9343,98,Increasing leaf size,823,Increasing leaf size,12,0.5846153846153846,0.0088446140171789,sweet birch,American hornbeam,GRSM-Tremont-Dorsey Branch
+1180,9343,98,Falling leaves,823,Colored leaves,12,0.5354496700964052,0.0181450607327122,sweet birch,American hornbeam,GRSM-Tremont-Dorsey Branch
+1181,9343,98,Falling leaves,970,Falling leaves,12,0.4806345965331828,0.0322943377269403,sweet birch,American sycamore,GRSM-Tremont-Dorsey Branch
+1182,9343,98,Falling leaves,970,Colored leaves,12,0.53125,0.018604354576073,sweet birch,American sycamore,GRSM-Tremont-Dorsey Branch
+1185,9343,98,Leaves,823,Leaves,15,0.6502541951775108,0.0009875678134361,sweet birch,American hornbeam,GRSM-Tremont-Dorsey Branch
+1190,9343,98,Colored leaves,970,Falling leaves,12,0.542651963827787,0.0156501377233771,sweet birch,American sycamore,GRSM-Tremont-Dorsey Branch
+1191,9343,98,Colored leaves,970,Colored leaves,12,0.46875,0.0378478548216195,sweet birch,American sycamore,GRSM-Tremont-Dorsey Branch
+1192,9343,98,Colored leaves,1172,Falling leaves,12,0.4651302547095317,0.0382941790302906,sweet birch,yellow buckeye,GRSM-Tremont-Dorsey Branch
+1196,9343,823,Leaves,1172,Leaves,15,0.5100255019126594,0.0105659517336328,American hornbeam,yellow buckeye,GRSM-Tremont-Dorsey Branch
+1197,9343,823,Leaves,1179,Leaves,15,0.392175710550494,0.0461516972393417,American hornbeam,Kentucky yellowwood,GRSM-Tremont-Dorsey Branch
+1198,9343,823,Colored leaves,970,Falling leaves,12,0.5000610463343951,0.0265167833177904,American hornbeam,American sycamore,GRSM-Tremont-Dorsey Branch
+1204,9343,970,Leaves,1172,Leaves,15,0.6030226891555273,0.0025781016502965,American sycamore,yellow buckeye,GRSM-Tremont-Dorsey Branch
+1208,9343,1172,Falling leaves,1179,Colored leaves,12,0.4961389383568338,0.0271187165445825,yellow buckeye,Kentucky yellowwood,GRSM-Tremont-Dorsey Branch
+1212,11895,82,Leaves,97,Leaves,11,0.574074074074074,0.015183516079867,tuliptree,yellow birch,GRSM-Cataloochee Ranger Stn
+1214,11895,82,Leaves,970,Leaves,11,0.8440722199302099,0.0003281542287518,tuliptree,American sycamore,GRSM-Cataloochee Ranger Stn
+1215,11895,82,Leaves,1172,Leaves,11,0.611111111111111,0.0097487691967931,tuliptree,yellow buckeye,GRSM-Cataloochee Ranger Stn
+1216,11895,97,Leaves,98,Leaves,11,0.8888888888888888,0.0001702937757795,yellow birch,sweet birch,GRSM-Cataloochee Ranger Stn
+1217,11895,97,Leaves,970,Leaves,11,0.7339758434175737,0.0017872890369872,yellow birch,American sycamore,GRSM-Cataloochee Ranger Stn
+1218,11895,97,Leaves,1172,Leaves,11,0.7592592592592592,0.0013218707803182,yellow birch,yellow buckeye,GRSM-Cataloochee Ranger Stn
+1219,11895,97,Colored leaves,98,Colored leaves,10,1.0,5.511463844797178e-07,yellow birch,sweet birch,GRSM-Cataloochee Ranger Stn
+1220,11895,98,Leaves,970,Leaves,11,0.6238794669049377,0.0079319235327952,sweet birch,American sycamore,GRSM-Cataloochee Ranger Stn
+1221,11895,98,Leaves,1172,Leaves,11,0.6851851851851851,0.0037566789893243,sweet birch,yellow buckeye,GRSM-Cataloochee Ranger Stn
+1222,11895,970,Leaves,1172,Leaves,11,0.7706746355884524,0.0010393630991335,American sycamore,yellow buckeye,GRSM-Cataloochee Ranger Stn
+1223,11896,3,Leaves,100,Leaves,12,0.6511823565933444,0.0037272392778565,red maple,white oak,GRSM-AT Fontana
+1226,11896,3,Colored leaves,100,Colored leaves,10,0.5555555555555555,0.0286094576719576,red maple,white oak,GRSM-AT Fontana
+1227,11896,3,Colored leaves,1187,Colored leaves,10,0.6,0.0166661155202821,red maple,sourwood,GRSM-AT Fontana
+1228,11896,100,Leaves,941,Leaves,12,0.558156305651438,0.0129176954299483,white oak,blackgum,GRSM-AT Fontana
+1230,11896,100,Colored leaves,1187,Colored leaves,10,0.8666666666666666,0.0001151895943562,white oak,sourwood,GRSM-AT Fontana
+1231,11896,941,Leaves,1177,Leaves,12,0.515625,0.0223628034372094,blackgum,mockernut hickory,GRSM-AT Fontana
+1232,11897,3,Leaves,82,Leaves,12,0.9076923076923078,4.807501627297362e-05,red maple,tuliptree,GRSM-AT Lakeshore Trail
+1233,11899,3,Falling leaves,60,Falling leaves,11,0.5137830903923016,0.0287839658757383,red maple,striped maple,GRSM-Cataloochee Divide
+1234,11899,3,Falling leaves,1181,Falling leaves,11,0.5137830903923016,0.0287839658757383,red maple,Carolina silverbell,GRSM-Cataloochee Divide
+1235,11899,3,Leaves,60,Leaves,12,0.703125,0.0018410212585438,red maple,striped maple,GRSM-Cataloochee Divide
+1238,11899,60,Falling leaves,1181,Falling leaves,11,0.7454545454545454,0.0007595298220298,striped maple,Carolina silverbell,GRSM-Cataloochee Divide
+1240,12002,941,Leaves,1159,Leaves,12,0.7272727272727272,0.0004988835110362,blackgum,black oak,GRSM-Look Rock AQ
+1250,12003,3,Increasing leaf size,82,Increasing leaf size,11,0.5504818825631803,0.0191495715007661,red maple,tuliptree,GRSM-Elkmont AQ
+1253,12003,3,Falling leaves,82,Falling leaves,12,0.5954371961386479,0.0073481685418874,red maple,tuliptree,GRSM-Elkmont AQ
+1260,12003,3,Leaves,82,Leaves,12,0.542651963827787,0.0156501377233771,red maple,tuliptree,GRSM-Elkmont AQ
+1266,12003,3,Colored leaves,82,Leaves,12,-0.5736606474750892,0.0106161341700328,red maple,tuliptree,GRSM-Elkmont AQ
+1267,12003,3,Colored leaves,82,Colored leaves,12,0.671875,0.0029173527829557,red maple,tuliptree,GRSM-Elkmont AQ
+1269,12003,3,Colored leaves,98,Colored leaves,12,0.558156305651438,0.0129176954299483,red maple,sweet birch,GRSM-Elkmont AQ
+1271,12003,12,Increasing leaf size,98,Breaking leaf buds,11,0.537037037037037,0.0231270912645807,flowering dogwood,sweet birch,GRSM-Elkmont AQ
+1284,17582,3,Leaves,61,Leaves,11,0.6296296296296295,0.0077461911689365,red maple,sugar maple,GRSM-Davenport Gap
+1290,17582,61,Increasing leaf size,82,Increasing leaf size,10,0.5555555555555555,0.0286094576719576,sugar maple,tuliptree,GRSM-Davenport Gap
+1293,17582,61,Leaves,1212,Leaves,11,0.537037037037037,0.0231270912645807,sugar maple,chestnut oak,GRSM-Davenport Gap

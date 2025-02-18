@@ -1,0 +1,9 @@
+species_a_name,species_b_name,phenophase_a,phenophase_b,site_name,kendall_tau,p_value
+Red Maple,White Oak,Budburst,Flowering,GRSM-Purchase-dogwood1,0.45,0.03
+Red Maple,White Oak,Leaf Drop,Dormancy,GRSM-Purchase-dogwood1,0.38,0.04
+Yellow Buckeye,Sugar Maple,Fruiting,Leaf Drop,GRSM-Purchase-dogwood1,-0.52,0.02
+Yellow Buckeye,Sugar Maple,Flowering,Budburst,GRSM-Purchase-dogwood1,0.6,0.01
+American Basswood,Red Maple,Dormancy,Fruiting,GRSM-PKnob Upper Plot,0.29,0.05
+American Basswood,Red Maple,Flowering,Leaf Drop,GRSM-PKnob Upper Plot,-0.41,0.02
+White Oak,Sugar Maple,Budburst,Dormancy,Blue Ridge Site,0.33,0.03
+White Oak,Sugar Maple,Fruiting,Leaf Drop,Blue Ridge Site,-0.48,0.01

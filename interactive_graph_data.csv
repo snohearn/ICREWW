@@ -1,0 +1,305 @@
+Unnamed: 0,site_id,species_a,phenophase_a,species_b,phenophase_b,number_of_observations,kendall_tau,p_value,genus_x,species_x,species_a_common,species_a_name,genus_y,species_y,species_b_common,species_b_name,site_name
+9,8182,3,371,1172,467,14,0.4114352887942449,0.0464349408310933,Acer,rubrum,red maple,Acer rubrum,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+21,8182,3,467,102,371,14,0.5142941109928062,0.0127092012460418,Acer,rubrum,red maple,Acer rubrum,Quercus,rubra,northern red oak,Quercus rubra,GRSM-PKnob Upper Plot
+27,8182,3,467,1172,500,14,0.4432104354819598,0.0310512683870737,Acer,rubrum,red maple,Acer rubrum,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+29,8182,3,467,1174,371,14,0.4832681048178826,0.0177560329856441,Acer,rubrum,red maple,Acer rubrum,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-PKnob Upper Plot
+34,8182,3,471,93,498,13,0.4313817631332017,0.0429155369136774,Acer,rubrum,red maple,Acer rubrum,Tilia,americana,American basswood,Tilia americana,GRSM-PKnob Upper Plot
+47,8182,3,483,102,371,14,0.4971830761761255,0.015233283457063,Acer,rubrum,red maple,Acer rubrum,Quercus,rubra,northern red oak,Quercus rubra,GRSM-PKnob Upper Plot
+53,8182,3,483,1172,500,14,0.4606741573033708,0.0239477828718304,Acer,rubrum,red maple,Acer rubrum,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+55,8182,3,483,1174,371,14,0.4778072729642601,0.0182199720817427,Acer,rubrum,red maple,Acer rubrum,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-PKnob Upper Plot
+75,8182,28,371,93,483,14,0.4571503208824944,0.0269192474938744,Prunus,serotina,black cherry,Prunus serotina,Tilia,americana,American basswood,Tilia americana,GRSM-PKnob Upper Plot
+113,8182,28,483,1172,371,14,0.4157303370786517,0.0415822876912835,Prunus,serotina,black cherry,Prunus serotina,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+125,8182,28,498,1172,498,13,0.4736842105263156,0.0269224584570869,Prunus,serotina,black cherry,Prunus serotina,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+129,8182,93,371,102,371,14,0.5028653529707438,0.0149348328243508,Tilia,americana,American basswood,Tilia americana,Quercus,rubra,northern red oak,Quercus rubra,GRSM-PKnob Upper Plot
+132,8182,93,371,1172,371,14,0.477303545903649,0.020344656964648,Tilia,americana,American basswood,Tilia americana,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+134,8182,93,371,1172,483,14,0.5142941109928062,0.0128004766603399,Tilia,americana,American basswood,Tilia americana,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+137,8182,93,371,1174,371,14,0.415835346006085,0.0415686954327401,Tilia,americana,American basswood,Tilia americana,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-PKnob Upper Plot
+143,8182,93,483,1172,371,14,0.465939175763086,0.0235314820387909,Tilia,americana,American basswood,Tilia americana,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+158,8182,102,371,1172,371,14,0.5536811530143216,0.0068808604756035,Quercus,rubra,northern red oak,Quercus rubra,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+159,8182,102,371,1172,467,14,0.409090909090909,0.0467588264278091,Quercus,rubra,northern red oak,Quercus rubra,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+160,8182,102,371,1172,483,14,0.5454545454545454,0.0080181568902596,Quercus,rubra,northern red oak,Quercus rubra,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+163,8182,102,371,1174,371,14,0.4916891718944416,0.0155342815979434,Quercus,rubra,northern red oak,Quercus rubra,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-PKnob Upper Plot
+172,8182,102,467,1174,467,14,0.4161919241438186,0.0453519881067274,Quercus,rubra,northern red oak,Quercus rubra,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-PKnob Upper Plot
+174,8182,102,471,1172,471,13,0.588348405414552,0.005764983650937,Quercus,rubra,northern red oak,Quercus rubra,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+177,8182,102,471,1174,471,13,0.4516223023309454,0.0324116955062126,Quercus,rubra,northern red oak,Quercus rubra,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-PKnob Upper Plot
+185,8182,102,483,1174,467,14,0.439313697707364,0.0346382273288953,Quercus,rubra,northern red oak,Quercus rubra,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-PKnob Upper Plot
+186,8182,102,483,1174,483,14,0.4205631760067919,0.0407629831211741,Quercus,rubra,northern red oak,Quercus rubra,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-PKnob Upper Plot
+187,8182,102,498,1172,471,13,0.4210890847742521,0.0492017802853333,Quercus,rubra,northern red oak,Quercus rubra,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-PKnob Upper Plot
+198,8182,1172,471,1174,471,13,0.802701067850918,0.0001773382188788,Aesculus,flava,yellow buckeye,Aesculus flava,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-PKnob Upper Plot
+204,8182,1172,498,1174,498,13,0.4473684210526314,0.0366433384598118,Aesculus,flava,yellow buckeye,Aesculus flava,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-PKnob Upper Plot
+208,8182,1172,501,1174,371,14,0.4246406484542904,0.0366428344855158,Aesculus,flava,yellow buckeye,Aesculus flava,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-PKnob Upper Plot
+213,8806,3,467,12,467,14,0.4745838454408471,0.0205322649786096,Acer,rubrum,red maple,Acer rubrum,Cornus,florida,flowering dogwood,Cornus florida,GRSM-Tremont-Nature Trail 
+216,8806,3,467,81,467,14,0.4772727272727272,0.0203467612302907,Acer,rubrum,red maple,Acer rubrum,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,GRSM-Tremont-Nature Trail 
+219,8806,3,467,82,467,14,0.4406849993379294,0.031475101641879,Acer,rubrum,red maple,Acer rubrum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Tremont-Nature Trail 
+234,8806,3,483,12,483,15,0.4174954050920819,0.0324865313243188,Acer,rubrum,red maple,Acer rubrum,Cornus,florida,flowering dogwood,Cornus florida,GRSM-Tremont-Nature Trail 
+237,8806,3,483,82,483,15,0.4878106818986775,0.0127933122991969,Acer,rubrum,red maple,Acer rubrum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Tremont-Nature Trail 
+250,8806,12,467,81,467,14,0.6892765374259923,0.0007670850531177,Cornus,florida,flowering dogwood,Cornus florida,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,GRSM-Tremont-Nature Trail 
+252,8806,12,467,82,371,14,0.50561797752809,0.0132026637451969,Cornus,florida,flowering dogwood,Cornus florida,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Tremont-Nature Trail 
+254,8806,12,467,823,371,14,0.4067861532350118,0.0470831681868926,Cornus,florida,flowering dogwood,Cornus florida,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Nature Trail 
+255,8806,12,467,823,467,14,0.4357609900500941,0.0319814186461884,Cornus,florida,flowering dogwood,Cornus florida,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Nature Trail 
+263,8806,12,471,82,471,13,0.5695489135379688,0.0081028659340265,Cornus,florida,flowering dogwood,Cornus florida,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Tremont-Nature Trail 
+274,8806,12,498,81,498,14,0.6628679652796168,0.001319643061989,Cornus,florida,flowering dogwood,Cornus florida,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,GRSM-Tremont-Nature Trail 
+279,8806,12,498,823,498,14,0.8323838482876372,6.26104290686615e-05,Cornus,florida,flowering dogwood,Cornus florida,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Nature Trail 
+280,8806,12,498,1192,467,14,-0.4068381021724862,0.0468521510588554,Cornus,florida,flowering dogwood,Cornus florida,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Nature Trail 
+281,8806,12,498,1192,498,14,0.5600091430810556,0.0066059928297404,Cornus,florida,flowering dogwood,Cornus florida,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Nature Trail 
+283,8806,61,467,81,498,14,-0.4971830761761255,0.015233283457063,Acer,saccharum,sugar maple,Acer saccharum,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,GRSM-Tremont-Nature Trail 
+288,8806,61,467,823,498,14,-0.4114890395670648,0.0462045765852813,Acer,saccharum,sugar maple,Acer saccharum,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Nature Trail 
+289,8806,61,467,1192,467,14,0.6480548057155245,0.0014253454469424,Acer,saccharum,sugar maple,Acer saccharum,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Nature Trail 
+294,8806,61,471,100,467,13,0.421089084774252,0.0492017802853333,Acer,saccharum,sugar maple,Acer saccharum,Quercus,alba,white oak,Quercus alba,GRSM-Tremont-Nature Trail 
+300,8806,61,483,1192,483,15,0.5784313725490197,0.0032446170979626,Acer,saccharum,sugar maple,Acer saccharum,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Nature Trail 
+308,8806,81,467,82,371,14,0.5762803837496,0.0049102360947263,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Tremont-Nature Trail 
+311,8806,81,467,823,467,14,0.4719399037242694,0.0207184154312571,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Nature Trail 
+316,8806,81,471,82,471,13,0.5263157894736842,0.0139522990373366,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Tremont-Nature Trail 
+327,8806,81,498,823,498,14,0.827640881769065,6.528965590078832e-05,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Nature Trail 
+329,8806,81,498,1192,498,14,0.5,0.0149810150532012,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Nature Trail 
+339,8806,82,467,823,467,14,0.5698412946808924,0.0050389548883497,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Nature Trail 
+346,8806,82,483,823,483,15,0.6601941747572816,0.000720722551589,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Nature Trail 
+349,8806,100,467,1192,471,13,0.4675324675324674,0.0274900586481659,Quercus,alba,white oak,Quercus alba,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Nature Trail 
+356,8806,823,498,1192,467,14,-0.4205631760067919,0.0407629831211741,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Nature Trail 
+357,8806,823,498,1192,498,14,0.6667107103139691,0.001283074400331,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Nature Trail 
+358,8836,3,483,81,483,13,0.4475234075187578,0.0363888662007085,Acer,rubrum,red maple,Acer rubrum,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,GRSM-Sugarlands Nature Trail
+359,8836,3,483,82,483,13,0.4832323597540974,0.0257125123476664,Acer,rubrum,red maple,Acer rubrum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Sugarlands Nature Trail
+360,8836,3,483,823,483,13,0.4267045976501319,0.0480891520533275,Acer,rubrum,red maple,Acer rubrum,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Sugarlands Nature Trail
+368,8836,81,467,82,467,11,0.697277051246695,0.0030042622393982,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Sugarlands Nature Trail
+371,8836,81,483,82,483,13,0.6667948594698255,0.0017308539731672,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Sugarlands Nature Trail
+372,8836,81,483,823,483,13,0.4675719001195179,0.0274863361115103,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Sugarlands Nature Trail
+373,8836,81,498,82,498,12,0.5151515151515151,0.0209803516313932,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Sugarlands Nature Trail
+376,8836,82,483,823,483,13,0.4370956778314643,0.041894193197355,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Sugarlands Nature Trail
+378,8899,61,483,79,483,13,0.4935064935064934,0.0199674304931967,Acer,saccharum,sugar maple,Acer saccharum,Fagus,grandifolia,American beech,Fagus grandifolia,GRSM-Newfound Gap
+379,8899,61,483,1172,483,13,0.7058974305816028,0.0009234420576988,Acer,saccharum,sugar maple,Acer saccharum,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Newfound Gap
+380,8899,61,483,1174,483,13,0.802701067850918,0.0001740230340733,Acer,saccharum,sugar maple,Acer saccharum,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-Newfound Gap
+381,8899,79,483,1172,483,13,0.6143922080988024,0.0039337873085607,Fagus,grandifolia,American beech,Fagus grandifolia,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Newfound Gap
+382,8899,79,483,1174,483,13,0.631633627161378,0.0031370371316716,Fagus,grandifolia,American beech,Fagus grandifolia,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-Newfound Gap
+383,8899,1172,483,1174,483,13,0.8212100613803269,0.0001320921844935,Aesculus,flava,yellow buckeye,Aesculus flava,Amelanchier,laevis,Allegheny serviceberry,Amelanchier laevis,GRSM-Newfound Gap
+384,8901,91,467,1199,467,12,0.6929348671835832,0.0022316179323638,Sorbus,americana,American mountain ash,Sorbus americana,Acer,spicatum,mountain maple,Acer spicatum,GRSM-Clingmans Dome Rd.
+386,8901,91,483,97,483,13,0.5621035095372022,0.0083390347056485,Sorbus,americana,American mountain ash,Sorbus americana,Betula,alleghaniensis,yellow birch,Betula alleghaniensis,GRSM-Clingmans Dome Rd.
+389,8901,91,483,1189,483,13,0.4474071525726428,0.0366387901587302,Sorbus,americana,American mountain ash,Sorbus americana,Prunus,pensylvanica,pin cherry,Prunus pensylvanica,GRSM-Clingmans Dome Rd.
+391,8901,91,483,1199,483,13,0.7189696052220028,0.0007402559106148,Sorbus,americana,American mountain ash,Sorbus americana,Acer,spicatum,mountain maple,Acer spicatum,GRSM-Clingmans Dome Rd.
+398,8901,91,498,1189,498,13,0.516567619255367,0.016330215477267,Sorbus,americana,American mountain ash,Sorbus americana,Prunus,pensylvanica,pin cherry,Prunus pensylvanica,GRSM-Clingmans Dome Rd.
+399,8901,91,498,1199,483,13,0.5960395606792696,0.0055900820170959,Sorbus,americana,American mountain ash,Sorbus americana,Acer,spicatum,mountain maple,Acer spicatum,GRSM-Clingmans Dome Rd.
+401,8901,97,471,1189,471,13,0.7248485396311461,0.0008331759151342,Betula,alleghaniensis,yellow birch,Betula alleghaniensis,Prunus,pensylvanica,pin cherry,Prunus pensylvanica,GRSM-Clingmans Dome Rd.
+409,8901,97,483,1199,483,13,0.5526315789473683,0.0098396614128719,Betula,alleghaniensis,yellow birch,Betula alleghaniensis,Acer,spicatum,mountain maple,Acer spicatum,GRSM-Clingmans Dome Rd.
+412,8901,97,498,1189,483,13,-0.4503410014021148,0.0362980985292846,Betula,alleghaniensis,yellow birch,Betula alleghaniensis,Prunus,pensylvanica,pin cherry,Prunus pensylvanica,GRSM-Clingmans Dome Rd.
+418,8901,1189,483,1199,483,13,0.4635863249727652,0.0311502591754897,Prunus,pensylvanica,pin cherry,Prunus pensylvanica,Acer,spicatum,mountain maple,Acer spicatum,GRSM-Clingmans Dome Rd.
+421,8901,1189,498,1199,498,13,0.6578947368421051,0.0021183935974864,Prunus,pensylvanica,pin cherry,Prunus pensylvanica,Acer,spicatum,mountain maple,Acer spicatum,GRSM-Clingmans Dome Rd.
+425,8902,3,467,12,483,12,0.5846845821518305,0.0088421741541674,Acer,rubrum,red maple,Acer rubrum,Cornus,florida,flowering dogwood,Cornus florida,GRSM-Mingus Mill
+427,8902,3,467,68,483,12,0.5539117094069973,0.0131271093915706,Acer,rubrum,red maple,Acer rubrum,Carya,ovata,shagbark hickory,Carya ovata,GRSM-Mingus Mill
+436,8902,3,483,68,483,12,0.7287040657115997,0.0011718251821904,Acer,rubrum,red maple,Acer rubrum,Carya,ovata,shagbark hickory,Carya ovata,GRSM-Mingus Mill
+438,8902,3,483,102,467,12,0.5038314736557788,0.0233149963825438,Acer,rubrum,red maple,Acer rubrum,Quercus,rubra,northern red oak,Quercus rubra,GRSM-Mingus Mill
+439,8902,3,483,102,483,12,0.4923076923076924,0.027479806211379,Acer,rubrum,red maple,Acer rubrum,Quercus,rubra,northern red oak,Quercus rubra,GRSM-Mingus Mill
+442,8902,3,483,1187,483,12,0.4923076923076924,0.027479806211379,Acer,rubrum,red maple,Acer rubrum,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-Mingus Mill
+462,8902,68,483,102,467,12,0.5231388366621641,0.0191546447804258,Carya,ovata,shagbark hickory,Carya ovata,Quercus,rubra,northern red oak,Quercus rubra,GRSM-Mingus Mill
+463,8902,68,483,102,483,12,0.5116432801804849,0.022675321110971,Carya,ovata,shagbark hickory,Carya ovata,Quercus,rubra,northern red oak,Quercus rubra,GRSM-Mingus Mill
+465,8902,68,483,1187,467,12,0.6356780147696934,0.0046357429770426,Carya,ovata,shagbark hickory,Carya ovata,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-Mingus Mill
+466,8902,68,483,1187,483,12,0.5736606474750892,0.0106161341700328,Carya,ovata,shagbark hickory,Carya ovata,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-Mingus Mill
+477,8902,102,467,1187,483,12,0.442760992000533,0.0462290605523907,Quercus,rubra,northern red oak,Quercus rubra,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-Mingus Mill
+483,8903,12,483,79,483,12,0.546875,0.0154106570520779,Cornus,florida,flowering dogwood,Cornus florida,Fagus,grandifolia,American beech,Fagus grandifolia,GRSM-Deep creek 
+484,8903,12,483,100,483,12,0.453125,0.04471964048599,Cornus,florida,flowering dogwood,Cornus florida,Quercus,alba,white oak,Quercus alba,GRSM-Deep creek 
+485,8903,79,483,100,483,12,0.703125,0.0018410212585438,Fagus,grandifolia,American beech,Fagus grandifolia,Quercus,alba,white oak,Quercus alba,GRSM-Deep creek 
+489,8904,28,467,1172,467,13,0.7785410240482681,0.0003261078686802,Prunus,serotina,black cherry,Prunus serotina,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-OVC
+490,8904,28,467,1172,483,13,0.5540540540540541,0.0109290105101839,Prunus,serotina,black cherry,Prunus serotina,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-OVC
+491,8904,28,471,93,471,11,0.7222222222222222,0.0022540189597224,Prunus,serotina,black cherry,Prunus serotina,Tilia,americana,American basswood,Tilia americana,GRSM-OVC
+496,8904,28,498,1172,498,11,0.6481481481481481,0.0061204298832061,Prunus,serotina,black cherry,Prunus serotina,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-OVC
+510,9338,3,371,823,371,13,0.6143922080988025,0.0039337873085607,Acer,rubrum,red maple,Acer rubrum,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Lagoons
+511,9338,3,467,81,467,12,0.442760992000533,0.0462290605523907,Acer,rubrum,red maple,Acer rubrum,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,GRSM-Tremont-Lagoons
+512,9338,3,467,98,371,12,0.5757575757575757,0.0087577327507883,Acer,rubrum,red maple,Acer rubrum,Betula,lenta,sweet birch,Betula lenta,GRSM-Tremont-Lagoons
+514,9338,3,467,823,467,12,0.5649019553110248,0.0109851589729484,Acer,rubrum,red maple,Acer rubrum,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Lagoons
+517,9338,3,471,76,498,12,0.6201736729460423,0.0057403462859958,Acer,rubrum,red maple,Acer rubrum,Hamamelis,virginiana,American witchhazel,Hamamelis virginiana,GRSM-Tremont-Lagoons
+519,9338,3,471,98,471,12,0.6153846153846154,0.0058550185971252,Acer,rubrum,red maple,Acer rubrum,Betula,lenta,sweet birch,Betula lenta,GRSM-Tremont-Lagoons
+521,9338,3,471,970,498,12,0.5625686771261945,0.0125645741505303,Acer,rubrum,red maple,Acer rubrum,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Lagoons
+523,9338,3,471,1192,471,12,0.4615384615384615,0.0387488436156419,Acer,rubrum,red maple,Acer rubrum,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Lagoons
+524,9338,3,471,1192,498,12,0.5116432801804849,0.022675321110971,Acer,rubrum,red maple,Acer rubrum,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Lagoons
+527,9338,3,483,81,483,14,0.6179775280898877,0.0024538198087407,Acer,rubrum,red maple,Acer rubrum,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,GRSM-Tremont-Lagoons
+529,9338,3,483,823,483,14,0.6778196197865085,0.0008095994510415,Acer,rubrum,red maple,Acer rubrum,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Lagoons
+536,9338,3,498,98,471,12,0.8438530156892918,0.0001812454824754,Acer,rubrum,red maple,Acer rubrum,Betula,lenta,sweet birch,Betula lenta,GRSM-Tremont-Lagoons
+537,9338,3,498,941,498,12,0.5354496700964052,0.0181450607327122,Acer,rubrum,red maple,Acer rubrum,Nyssa,sylvatica,blackgum,Nyssa sylvatica,GRSM-Tremont-Lagoons
+538,9338,3,498,970,498,12,0.5555555555555555,0.0146185963490601,Acer,rubrum,red maple,Acer rubrum,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Lagoons
+541,9338,3,498,1192,498,12,0.7244319066010189,0.001390965794545,Acer,rubrum,red maple,Acer rubrum,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Lagoons
+542,9338,60,483,76,483,14,0.6437206858203839,0.0018993600280759,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Hamamelis,virginiana,American witchhazel,Hamamelis virginiana,GRSM-Tremont-Lagoons
+543,9338,60,483,81,483,14,0.4067861532350118,0.0470831681868926,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,GRSM-Tremont-Lagoons
+547,9338,60,483,970,483,14,0.5142941109928062,0.0127092012460418,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Lagoons
+549,9338,60,483,1192,483,14,0.5942954171472428,0.0039839305780109,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Lagoons
+556,9338,76,483,1192,483,14,0.5433616787433188,0.0089775910007405,Hamamelis,virginiana,American witchhazel,Hamamelis virginiana,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Lagoons
+560,9338,76,498,970,498,12,0.551198189805123,0.015010146495452,Hamamelis,virginiana,American witchhazel,Hamamelis virginiana,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Lagoons
+561,9338,76,498,1187,498,12,0.4496259128858806,0.0452164215340268,Hamamelis,virginiana,American witchhazel,Hamamelis virginiana,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-Tremont-Lagoons
+569,9338,81,471,98,471,12,0.4923076923076924,0.027479806211379,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Betula,lenta,sweet birch,Betula lenta,GRSM-Tremont-Lagoons
+576,9338,81,483,823,483,14,0.4778072729642601,0.0182199720817427,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Lagoons
+581,9338,98,371,823,467,12,0.5038314736557788,0.0233149963825438,Betula,lenta,sweet birch,Betula lenta,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Lagoons
+587,9338,98,471,941,498,12,0.542651963827787,0.0156501377233771,Betula,lenta,sweet birch,Betula lenta,Nyssa,sylvatica,blackgum,Nyssa sylvatica,GRSM-Tremont-Lagoons
+588,9338,98,471,970,498,12,0.5000610463343952,0.0265167833177904,Betula,lenta,sweet birch,Betula lenta,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Lagoons
+591,9338,98,471,1192,498,12,0.8527388003008082,0.0001458083832771,Betula,lenta,sweet birch,Betula lenta,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Lagoons
+593,9338,98,483,941,483,14,0.6966292134831461,0.0006390269269145,Betula,lenta,sweet birch,Betula lenta,Nyssa,sylvatica,blackgum,Nyssa sylvatica,GRSM-Tremont-Lagoons
+594,9338,98,483,970,483,14,0.6591334681526582,0.0013413806058796,Betula,lenta,sweet birch,Betula lenta,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Lagoons
+595,9338,98,483,1187,483,14,0.6033613708385918,0.0029827957416864,Betula,lenta,sweet birch,Betula lenta,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-Tremont-Lagoons
+603,9338,941,371,970,467,12,0.6407032156159438,0.0044757309061251,Nyssa,sylvatica,blackgum,Nyssa sylvatica,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Lagoons
+604,9338,941,467,1187,467,11,0.7592592592592592,0.0013218707803182,Nyssa,sylvatica,blackgum,Nyssa sylvatica,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-Tremont-Lagoons
+605,9338,941,483,970,483,14,0.5568541368875906,0.0067416802624623,Nyssa,sylvatica,blackgum,Nyssa sylvatica,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Lagoons
+606,9338,941,483,1187,483,14,0.860348621380955,2.2927009396279727e-05,Nyssa,sylvatica,blackgum,Nyssa sylvatica,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-Tremont-Lagoons
+607,9338,941,483,1192,483,14,0.4204816952008337,0.0407731299357251,Nyssa,sylvatica,blackgum,Nyssa sylvatica,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Lagoons
+611,9338,941,498,1192,498,12,0.578125,0.0104366845302862,Nyssa,sylvatica,blackgum,Nyssa sylvatica,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Lagoons
+613,9338,970,483,1187,483,14,0.5198486861092879,0.0110930169574891,Platanus,occidentalis,American sycamore,Platanus occidentalis,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-Tremont-Lagoons
+614,9338,970,483,1192,483,14,0.4137931034482758,0.0456706320607131,Platanus,occidentalis,American sycamore,Platanus occidentalis,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Lagoons
+617,9338,970,498,1192,498,12,0.5354496700964052,0.0181450607327122,Platanus,occidentalis,American sycamore,Platanus occidentalis,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Lagoons
+619,9338,1187,498,1192,471,12,0.7692307692307693,0.0005716084710595,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,Ulmus,alata,winged elm,Ulmus alata,GRSM-Tremont-Lagoons
+621,9339,3,467,60,467,13,0.4933333333333333,0.0224619796284798,Acer,rubrum,red maple,Acer rubrum,Acer,pensylvanicum,striped maple,Acer pensylvanicum,GRSM-Tremont-West Prong
+623,9339,3,467,823,467,13,0.4266666666666666,0.048379168757838,Acer,rubrum,red maple,Acer rubrum,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-West Prong
+627,9339,3,471,61,471,12,0.5038314736557788,0.0233149963825438,Acer,rubrum,red maple,Acer rubrum,Acer,saccharum,sugar maple,Acer saccharum,GRSM-Tremont-West Prong
+628,9339,3,471,61,498,12,0.7786486411043856,0.0004558338469379,Acer,rubrum,red maple,Acer rubrum,Acer,saccharum,sugar maple,Acer saccharum,GRSM-Tremont-West Prong
+633,9339,3,471,823,471,12,0.5343667144834019,0.0161414304530507,Acer,rubrum,red maple,Acer rubrum,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-West Prong
+634,9339,3,471,1172,471,12,0.4615930911724977,0.0387418384632915,Acer,rubrum,red maple,Acer rubrum,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Tremont-West Prong
+636,9339,3,471,1181,471,12,0.5649019553110248,0.0109851589729484,Acer,rubrum,red maple,Acer rubrum,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-West Prong
+637,9339,3,471,1184,471,12,0.5649019553110248,0.0109851589729484,Acer,rubrum,red maple,Acer rubrum,Magnolia,fraseri,mountain magnolia,Magnolia fraseri,GRSM-Tremont-West Prong
+638,9339,3,483,60,483,14,0.5142941109928062,0.0128004766603399,Acer,rubrum,red maple,Acer rubrum,Acer,pensylvanicum,striped maple,Acer pensylvanicum,GRSM-Tremont-West Prong
+642,9339,3,483,823,483,14,0.4571503208824943,0.0269192474938744,Acer,rubrum,red maple,Acer rubrum,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-West Prong
+646,9339,3,498,61,471,12,0.5116432801804849,0.022675321110971,Acer,rubrum,red maple,Acer rubrum,Acer,saccharum,sugar maple,Acer saccharum,GRSM-Tremont-West Prong
+647,9339,3,498,61,498,12,0.8682431421244593,0.0001101109572748,Acer,rubrum,red maple,Acer rubrum,Acer,saccharum,sugar maple,Acer saccharum,GRSM-Tremont-West Prong
+655,9339,3,498,1181,471,12,0.6356780147696934,0.0046357429770426,Acer,rubrum,red maple,Acer rubrum,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-West Prong
+656,9339,3,498,1184,471,12,0.4806345965331828,0.0322943377269403,Acer,rubrum,red maple,Acer rubrum,Magnolia,fraseri,mountain magnolia,Magnolia fraseri,GRSM-Tremont-West Prong
+658,9339,60,467,823,467,13,0.4933333333333333,0.0224619796284798,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-West Prong
+661,9339,60,471,61,498,12,0.4531803232405456,0.0443710501453709,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Acer,saccharum,sugar maple,Acer saccharum,GRSM-Tremont-West Prong
+665,9339,60,471,98,498,12,0.6875839387097933,0.0022844715356567,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Betula,lenta,sweet birch,Betula lenta,GRSM-Tremont-West Prong
+669,9339,60,471,1181,471,12,0.5000610463343951,0.0265167833177904,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-West Prong
+674,9339,60,483,823,483,14,0.4772727272727272,0.0203467612302907,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-West Prong
+678,9339,60,498,82,471,12,0.7131997238879487,0.0014901532666585,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Tremont-West Prong
+679,9339,60,498,82,498,12,0.7442084075352507,0.0009173919133463,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Tremont-West Prong
+681,9339,60,498,98,498,12,0.5384615384615385,0.015894976127587,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Betula,lenta,sweet birch,Betula lenta,GRSM-Tremont-West Prong
+685,9339,60,498,1181,471,12,0.5538461538461539,0.0131303936072489,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-West Prong
+698,9339,61,483,823,483,14,0.6782057225607617,0.0010682677458882,Acer,saccharum,sugar maple,Acer saccharum,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-West Prong
+707,9339,61,498,1181,471,12,0.5846153846153846,0.0088446140171789,Acer,saccharum,sugar maple,Acer saccharum,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-West Prong
+709,9339,82,467,823,467,13,0.5637710863797804,0.0093504253016073,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-West Prong
+712,9339,82,471,98,498,12,0.4961389383568338,0.0271187165445825,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Betula,lenta,sweet birch,Betula lenta,GRSM-Tremont-West Prong
+716,9339,82,471,1181,471,12,0.5736606474750892,0.0106161341700328,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-West Prong
+721,9339,82,498,93,471,12,0.5116432801804849,0.022675321110971,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Tilia,americana,American basswood,Tilia americana,GRSM-Tremont-West Prong
+722,9339,82,498,98,498,12,0.6511823565933444,0.0037272392778565,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Betula,lenta,sweet birch,Betula lenta,GRSM-Tremont-West Prong
+728,9339,93,471,98,498,12,0.4923076923076924,0.027479806211379,Tilia,americana,American basswood,Tilia americana,Betula,lenta,sweet birch,Betula lenta,GRSM-Tremont-West Prong
+735,9339,93,483,1184,483,14,0.4827905143652879,0.0198511077412297,Tilia,americana,American basswood,Tilia americana,Magnolia,fraseri,mountain magnolia,Magnolia fraseri,GRSM-Tremont-West Prong
+736,9339,93,498,823,498,11,0.587180674734059,0.0124621582945403,Tilia,americana,American basswood,Tilia americana,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-West Prong
+741,9339,98,498,1181,471,12,0.5846153846153846,0.0088446140171789,Betula,lenta,sweet birch,Betula lenta,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-West Prong
+744,9339,823,471,1172,471,12,0.5116432801804849,0.022675321110971,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Tremont-West Prong
+751,9339,1172,471,1184,471,12,0.5736606474750892,0.0106161341700328,Aesculus,flava,yellow buckeye,Aesculus flava,Magnolia,fraseri,mountain magnolia,Magnolia fraseri,GRSM-Tremont-West Prong
+760,9340,3,483,102,483,15,0.6169230579301932,0.0018897717591348,Acer,rubrum,red maple,Acer rubrum,Quercus,rubra,northern red oak,Quercus rubra,GRSM-Tremont-Marcs Trail
+762,9340,102,467,1187,467,12,0.546875,0.0154106570520779,Quercus,rubra,northern red oak,Quercus rubra,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-Tremont-Marcs Trail
+763,9340,102,483,1212,483,15,0.423691589610646,0.0317173065166482,Quercus,rubra,northern red oak,Quercus rubra,Quercus,montana,chestnut oak,Quercus montana,GRSM-Tremont-Marcs Trail
+769,9341,3,371,67,371,12,0.4806345965331828,0.0322943377269403,Acer,rubrum,red maple,Acer rubrum,Carya,glabra,pignut hickory,Carya glabra,GRSM-Tremont-Falls Trail
+773,9341,3,467,60,467,13,0.8079647378096765,0.0001725714300493,Acer,rubrum,red maple,Acer rubrum,Acer,pensylvanicum,striped maple,Acer pensylvanicum,GRSM-Tremont-Falls Trail
+775,9341,3,467,61,467,13,0.9999999999999998,2.9954815934341095e-06,Acer,rubrum,red maple,Acer rubrum,Acer,saccharum,sugar maple,Acer saccharum,GRSM-Tremont-Falls Trail
+776,9341,3,467,67,467,13,0.4768316485434156,0.0264506523232998,Acer,rubrum,red maple,Acer rubrum,Carya,glabra,pignut hickory,Carya glabra,GRSM-Tremont-Falls Trail
+783,9341,3,467,1179,467,13,0.4575261124140018,0.0317749803468738,Acer,rubrum,red maple,Acer rubrum,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Falls Trail
+788,9341,3,483,12,483,14,0.4269932462267199,0.0363684588239646,Acer,rubrum,red maple,Acer rubrum,Cornus,florida,flowering dogwood,Cornus florida,GRSM-Tremont-Falls Trail
+789,9341,3,483,60,483,14,0.6477272727272727,0.0016415349519749,Acer,rubrum,red maple,Acer rubrum,Acer,pensylvanicum,striped maple,Acer pensylvanicum,GRSM-Tremont-Falls Trail
+790,9341,3,483,61,483,14,0.8068181818181818,8.791878910231842e-05,Acer,rubrum,red maple,Acer rubrum,Acer,saccharum,sugar maple,Acer saccharum,GRSM-Tremont-Falls Trail
+795,9341,3,483,102,483,14,0.5084826915437648,0.0130669594937223,Acer,rubrum,red maple,Acer rubrum,Quercus,rubra,northern red oak,Quercus rubra,GRSM-Tremont-Falls Trail
+797,9341,3,483,1179,483,14,0.5536811530143216,0.0068808604756035,Acer,rubrum,red maple,Acer rubrum,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Falls Trail
+799,9341,7,371,12,371,12,0.8308675641104959,0.0001988655780316,Cercis,canadensis,eastern redbud,Cercis canadensis,Cornus,florida,flowering dogwood,Cornus florida,GRSM-Tremont-Falls Trail
+801,9341,7,471,12,498,12,-0.4496259128858806,0.0452164215340268,Cercis,canadensis,eastern redbud,Cercis canadensis,Cornus,florida,flowering dogwood,Cornus florida,GRSM-Tremont-Falls Trail
+811,9341,7,483,12,483,14,0.4181391605661663,0.041273323179519,Cercis,canadensis,eastern redbud,Cercis canadensis,Cornus,florida,flowering dogwood,Cornus florida,GRSM-Tremont-Falls Trail
+816,9341,7,483,81,483,14,0.4367816091954022,0.0352796485189116,Cercis,canadensis,eastern redbud,Cercis canadensis,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,GRSM-Tremont-Falls Trail
+821,9341,7,483,1181,483,14,0.4685790789045567,0.0233289659987657,Cercis,canadensis,eastern redbud,Cercis canadensis,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-Falls Trail
+828,9341,7,498,81,471,12,0.5038314736557788,0.0233149963825438,Cercis,canadensis,eastern redbud,Cercis canadensis,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,GRSM-Tremont-Falls Trail
+844,9341,12,483,67,483,14,0.5910617608744103,0.004035606668433,Cornus,florida,flowering dogwood,Cornus florida,Carya,glabra,pignut hickory,Carya glabra,GRSM-Tremont-Falls Trail
+851,9341,12,483,1181,483,14,0.4382299106011073,0.0317251128481159,Cornus,florida,flowering dogwood,Cornus florida,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-Falls Trail
+856,9341,12,498,81,471,12,0.5231388366621641,0.0191546447804258,Cornus,florida,flowering dogwood,Cornus florida,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,GRSM-Tremont-Falls Trail
+857,9341,12,498,93,471,12,0.515625,0.0223628034372094,Cornus,florida,flowering dogwood,Cornus florida,Tilia,americana,American basswood,Tilia americana,GRSM-Tremont-Falls Trail
+859,9341,12,498,1019,498,12,0.4496259128858806,0.0452164215340268,Cornus,florida,flowering dogwood,Cornus florida,Sassafras,albidum,sassafras,Sassafras albidum,GRSM-Tremont-Falls Trail
+872,9341,60,371,1181,371,13,0.5359591602564021,0.0118922194498718,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-Falls Trail
+875,9341,60,467,61,467,13,0.8079647378096765,0.0001725714300493,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Acer,saccharum,sugar maple,Acer saccharum,GRSM-Tremont-Falls Trail
+883,9341,60,467,1179,467,13,0.5263613559678151,0.0139499858555877,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Falls Trail
+887,9341,60,483,61,483,14,0.8409090909090908,4.361830449462126e-05,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Acer,saccharum,sugar maple,Acer saccharum,GRSM-Tremont-Falls Trail
+892,9341,60,483,102,483,14,0.5536811530143216,0.0068808604756035,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Quercus,rubra,northern red oak,Quercus rubra,GRSM-Tremont-Falls Trail
+893,9341,60,483,1019,483,14,0.4406849993379294,0.031475101641879,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Sassafras,albidum,sassafras,Sassafras albidum,GRSM-Tremont-Falls Trail
+894,9341,60,483,1179,483,14,0.5649807683819609,0.0058207786378544,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Falls Trail
+915,9341,61,467,67,467,13,0.4768316485434156,0.0264506523232998,Acer,saccharum,sugar maple,Acer saccharum,Carya,glabra,pignut hickory,Carya glabra,GRSM-Tremont-Falls Trail
+922,9341,61,467,1179,467,13,0.4575261124140018,0.0317749803468738,Acer,saccharum,sugar maple,Acer saccharum,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Falls Trail
+930,9341,61,483,102,483,14,0.6666773066907138,0.0011375304305913,Acer,saccharum,sugar maple,Acer saccharum,Quercus,rubra,northern red oak,Quercus rubra,GRSM-Tremont-Falls Trail
+931,9341,61,483,1019,483,14,0.5536811530143216,0.0068808604756035,Acer,saccharum,sugar maple,Acer saccharum,Sassafras,albidum,sassafras,Sassafras albidum,GRSM-Tremont-Falls Trail
+932,9341,61,483,1179,483,14,0.4519846147055687,0.0273722309155083,Acer,saccharum,sugar maple,Acer saccharum,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Falls Trail
+936,9341,67,467,74,467,13,0.5960395606792696,0.0055301394883185,Carya,glabra,pignut hickory,Carya glabra,Fraxinus,americana,white ash,Fraxinus americana,GRSM-Tremont-Falls Trail
+940,9341,67,467,1019,467,13,0.5789974915645967,0.0067727649705807,Carya,glabra,pignut hickory,Carya glabra,Sassafras,albidum,sassafras,Sassafras albidum,GRSM-Tremont-Falls Trail
+942,9341,67,467,1179,467,13,0.421089084774252,0.0489163091000911,Carya,glabra,pignut hickory,Carya glabra,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Falls Trail
+949,9341,67,471,102,498,12,0.4615930911724977,0.0387418384632915,Carya,glabra,pignut hickory,Carya glabra,Quercus,rubra,northern red oak,Quercus rubra,GRSM-Tremont-Falls Trail
+958,9341,67,483,1181,483,14,0.4253154531313251,0.0401822540665128,Carya,glabra,pignut hickory,Carya glabra,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-Falls Trail
+961,9341,67,498,93,471,12,0.4496259128858806,0.0452164215340268,Carya,glabra,pignut hickory,Carya glabra,Tilia,americana,American basswood,Tilia americana,GRSM-Tremont-Falls Trail
+968,9341,74,467,1019,467,13,0.6536087320200025,0.0021587816015316,Fraxinus,americana,white ash,Fraxinus americana,Sassafras,albidum,sassafras,Sassafras albidum,GRSM-Tremont-Falls Trail
+970,9341,74,467,1179,467,13,0.4313817631332017,0.0429155369136774,Fraxinus,americana,white ash,Fraxinus americana,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Falls Trail
+976,9341,74,483,102,483,14,0.6292134831460675,0.0020420255759156,Fraxinus,americana,white ash,Fraxinus americana,Quercus,rubra,northern red oak,Quercus rubra,GRSM-Tremont-Falls Trail
+978,9341,74,483,1179,483,14,0.4157303370786517,0.0415822876912835,Fraxinus,americana,white ash,Fraxinus americana,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Falls Trail
+979,9341,74,483,1181,483,14,0.4858834608084864,0.0177097807414464,Fraxinus,americana,white ash,Fraxinus americana,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-Falls Trail
+984,9341,74,498,1181,471,12,0.4806345965331828,0.0322943377269403,Fraxinus,americana,white ash,Fraxinus americana,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-Falls Trail
+985,9341,81,371,1019,371,12,0.527147622004136,0.0188787004087722,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Sassafras,albidum,sassafras,Sassafras albidum,GRSM-Tremont-Falls Trail
+987,9341,81,467,1019,467,13,0.4575261124140018,0.0317749803468738,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Sassafras,albidum,sassafras,Sassafras albidum,GRSM-Tremont-Falls Trail
+1004,9341,81,498,1179,371,13,-0.5526315789473683,0.0098396614128719,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Falls Trail
+1017,9341,93,471,1181,471,12,-0.46875,0.0378478548216195,Tilia,americana,American basswood,Tilia americana,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Tremont-Falls Trail
+1018,9341,93,483,102,483,14,0.4719101123595506,0.0207205344782453,Tilia,americana,American basswood,Tilia americana,Quercus,rubra,northern red oak,Quercus rubra,GRSM-Tremont-Falls Trail
+1019,9341,93,483,1019,483,14,0.7640449438202248,0.0001804518970661,Tilia,americana,American basswood,Tilia americana,Sassafras,albidum,sassafras,Sassafras albidum,GRSM-Tremont-Falls Trail
+1022,9341,102,483,1019,483,14,0.4943820224719102,0.0153851758457616,Quercus,rubra,northern red oak,Quercus rubra,Sassafras,albidum,sassafras,Sassafras albidum,GRSM-Tremont-Falls Trail
+1023,9341,102,483,1179,483,14,0.4606741573033708,0.0239477828718304,Quercus,rubra,northern red oak,Quercus rubra,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Falls Trail
+1044,9342,3,371,1159,467,13,0.5467152657392316,0.011325469078429,Acer,rubrum,red maple,Acer rubrum,Quercus,velutina,black oak,Quercus velutina,GRSM-Tremont-Lumber Ridge
+1048,9342,3,483,100,483,15,0.4081632653061224,0.0426824510040119,Acer,rubrum,red maple,Acer rubrum,Quercus,alba,white oak,Quercus alba,GRSM-Tremont-Lumber Ridge
+1050,9342,3,483,1159,483,15,0.8061224489795918,6.256067533290831e-05,Acer,rubrum,red maple,Acer rubrum,Quercus,velutina,black oak,Quercus velutina,GRSM-Tremont-Lumber Ridge
+1055,9342,67,483,1187,483,15,0.5472704546154941,0.0058883099817624,Carya,glabra,pignut hickory,Carya glabra,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-Tremont-Lumber Ridge
+1057,9342,100,483,1159,483,15,0.4795918367346938,0.0172425333820422,Quercus,alba,white oak,Quercus alba,Quercus,velutina,black oak,Quercus velutina,GRSM-Tremont-Lumber Ridge
+1058,9342,100,483,1187,483,15,0.3939594923753622,0.0492476523402328,Quercus,alba,white oak,Quercus alba,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-Tremont-Lumber Ridge
+1071,9343,3,467,82,467,12,0.6154574548966636,0.005853245025574,Acer,rubrum,red maple,Acer rubrum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Tremont-Dorsey Branch
+1074,9343,3,467,970,467,12,0.703125,0.0018410212585438,Acer,rubrum,red maple,Acer rubrum,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Dorsey Branch
+1075,9343,3,471,7,471,12,0.542651963827787,0.0156501377233771,Acer,rubrum,red maple,Acer rubrum,Cercis,canadensis,eastern redbud,Cercis canadensis,GRSM-Tremont-Dorsey Branch
+1078,9343,3,471,82,498,12,0.46875,0.0378478548216195,Acer,rubrum,red maple,Acer rubrum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Tremont-Dorsey Branch
+1087,9343,3,471,1179,498,12,0.5625,0.0127098157395439,Acer,rubrum,red maple,Acer rubrum,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Dorsey Branch
+1090,9343,3,483,82,483,15,0.5374797538821051,0.0068033015647178,Acer,rubrum,red maple,Acer rubrum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Tremont-Dorsey Branch
+1093,9343,3,483,970,483,15,0.6363961030678927,0.001518102761951,Acer,rubrum,red maple,Acer rubrum,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Dorsey Branch
+1094,9343,3,483,1172,483,15,0.6903642243895957,0.0006104291806716,Acer,rubrum,red maple,Acer rubrum,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Tremont-Dorsey Branch
+1116,9343,7,483,970,483,15,0.48,0.0161145611769133,Cercis,canadensis,eastern redbud,Cercis canadensis,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Dorsey Branch
+1121,9343,79,483,823,483,15,0.4433551330755755,0.0247078776408849,Fagus,grandifolia,American beech,Fagus grandifolia,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Dorsey Branch
+1124,9343,79,483,1179,483,15,0.8390343728657254,1.853115645672877e-05,Fagus,grandifolia,American beech,Fagus grandifolia,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Dorsey Branch
+1125,9343,79,498,81,498,12,0.53125,0.018604354576073,Fagus,grandifolia,American beech,Fagus grandifolia,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,GRSM-Tremont-Dorsey Branch
+1143,9343,81,498,970,471,12,0.7131997238879487,0.0014901532666585,Liquidambar,styraciflua,sweetgum,Liquidambar styraciflua,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Dorsey Branch
+1149,9343,82,467,970,467,12,0.4923659639173309,0.0274742390169435,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Dorsey Branch
+1151,9343,82,483,823,483,15,0.4411976743693058,0.0248804606238546,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Dorsey Branch
+1152,9343,82,483,970,483,15,0.433544882392289,0.0279556804901465,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Dorsey Branch
+1153,9343,82,483,1172,483,15,0.5050495243689607,0.0107507283453538,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Tremont-Dorsey Branch
+1163,9343,82,498,1179,498,12,0.46875,0.0378478548216195,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Dorsey Branch
+1172,9343,93,498,98,498,12,0.46875,0.0378478548216195,Tilia,americana,American basswood,Tilia americana,Betula,lenta,sweet birch,Betula lenta,GRSM-Tremont-Dorsey Branch
+1178,9343,98,467,823,467,12,0.5846153846153846,0.0088446140171789,Betula,lenta,sweet birch,Betula lenta,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Dorsey Branch
+1180,9343,98,471,823,498,12,0.5354496700964052,0.0181450607327122,Betula,lenta,sweet birch,Betula lenta,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Dorsey Branch
+1181,9343,98,471,970,471,12,0.4806345965331828,0.0322943377269403,Betula,lenta,sweet birch,Betula lenta,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Dorsey Branch
+1182,9343,98,471,970,498,12,0.53125,0.018604354576073,Betula,lenta,sweet birch,Betula lenta,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Dorsey Branch
+1185,9343,98,483,823,483,15,0.6502541951775108,0.0009875678134361,Betula,lenta,sweet birch,Betula lenta,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,GRSM-Tremont-Dorsey Branch
+1190,9343,98,498,970,471,12,0.542651963827787,0.0156501377233771,Betula,lenta,sweet birch,Betula lenta,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Dorsey Branch
+1191,9343,98,498,970,498,12,0.46875,0.0378478548216195,Betula,lenta,sweet birch,Betula lenta,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Dorsey Branch
+1192,9343,98,498,1172,471,12,0.4651302547095317,0.0382941790302906,Betula,lenta,sweet birch,Betula lenta,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Tremont-Dorsey Branch
+1196,9343,823,483,1172,483,15,0.5100255019126594,0.0105659517336328,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Tremont-Dorsey Branch
+1197,9343,823,483,1179,483,15,0.392175710550494,0.0461516972393417,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Dorsey Branch
+1198,9343,823,498,970,471,12,0.5000610463343951,0.0265167833177904,Carpinus,caroliniana,American hornbeam,Carpinus caroliniana,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Tremont-Dorsey Branch
+1204,9343,970,483,1172,483,15,0.6030226891555273,0.0025781016502965,Platanus,occidentalis,American sycamore,Platanus occidentalis,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Tremont-Dorsey Branch
+1208,9343,1172,471,1179,498,12,0.4961389383568338,0.0271187165445825,Aesculus,flava,yellow buckeye,Aesculus flava,Cladrastis,kentukea,Kentucky yellowwood,Cladrastis kentukea,GRSM-Tremont-Dorsey Branch
+1212,11895,82,483,97,483,11,0.574074074074074,0.015183516079867,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Betula,alleghaniensis,yellow birch,Betula alleghaniensis,GRSM-Cataloochee Ranger Stn
+1214,11895,82,483,970,483,11,0.8440722199302099,0.0003281542287518,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Cataloochee Ranger Stn
+1215,11895,82,483,1172,483,11,0.611111111111111,0.0097487691967931,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Cataloochee Ranger Stn
+1216,11895,97,483,98,483,11,0.8888888888888888,0.0001702937757795,Betula,alleghaniensis,yellow birch,Betula alleghaniensis,Betula,lenta,sweet birch,Betula lenta,GRSM-Cataloochee Ranger Stn
+1217,11895,97,483,970,483,11,0.7339758434175737,0.0017872890369872,Betula,alleghaniensis,yellow birch,Betula alleghaniensis,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Cataloochee Ranger Stn
+1218,11895,97,483,1172,483,11,0.7592592592592592,0.0013218707803182,Betula,alleghaniensis,yellow birch,Betula alleghaniensis,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Cataloochee Ranger Stn
+1219,11895,97,498,98,498,10,1.0,5.511463844797178e-07,Betula,alleghaniensis,yellow birch,Betula alleghaniensis,Betula,lenta,sweet birch,Betula lenta,GRSM-Cataloochee Ranger Stn
+1220,11895,98,483,970,483,11,0.6238794669049377,0.0079319235327952,Betula,lenta,sweet birch,Betula lenta,Platanus,occidentalis,American sycamore,Platanus occidentalis,GRSM-Cataloochee Ranger Stn
+1221,11895,98,483,1172,483,11,0.6851851851851851,0.0037566789893243,Betula,lenta,sweet birch,Betula lenta,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Cataloochee Ranger Stn
+1222,11895,970,483,1172,483,11,0.7706746355884524,0.0010393630991335,Platanus,occidentalis,American sycamore,Platanus occidentalis,Aesculus,flava,yellow buckeye,Aesculus flava,GRSM-Cataloochee Ranger Stn
+1223,11896,3,483,100,483,12,0.6511823565933444,0.0037272392778565,Acer,rubrum,red maple,Acer rubrum,Quercus,alba,white oak,Quercus alba,GRSM-AT Fontana
+1226,11896,3,498,100,498,10,0.5555555555555555,0.0286094576719576,Acer,rubrum,red maple,Acer rubrum,Quercus,alba,white oak,Quercus alba,GRSM-AT Fontana
+1227,11896,3,498,1187,498,10,0.6,0.0166661155202821,Acer,rubrum,red maple,Acer rubrum,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-AT Fontana
+1228,11896,100,483,941,483,12,0.558156305651438,0.0129176954299483,Quercus,alba,white oak,Quercus alba,Nyssa,sylvatica,blackgum,Nyssa sylvatica,GRSM-AT Fontana
+1230,11896,100,498,1187,498,10,0.8666666666666666,0.0001151895943562,Quercus,alba,white oak,Quercus alba,Oxydendrum,arboreum,sourwood,Oxydendrum arboreum,GRSM-AT Fontana
+1231,11896,941,483,1177,483,12,0.515625,0.0223628034372094,Nyssa,sylvatica,blackgum,Nyssa sylvatica,Carya,tomentosa,mockernut hickory,Carya tomentosa,GRSM-AT Fontana
+1232,11897,3,483,82,483,12,0.9076923076923078,4.807501627297362e-05,Acer,rubrum,red maple,Acer rubrum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-AT Lakeshore Trail
+1233,11899,3,471,60,471,11,0.5137830903923016,0.0287839658757383,Acer,rubrum,red maple,Acer rubrum,Acer,pensylvanicum,striped maple,Acer pensylvanicum,GRSM-Cataloochee Divide
+1234,11899,3,471,1181,471,11,0.5137830903923016,0.0287839658757383,Acer,rubrum,red maple,Acer rubrum,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Cataloochee Divide
+1235,11899,3,483,60,483,12,0.703125,0.0018410212585438,Acer,rubrum,red maple,Acer rubrum,Acer,pensylvanicum,striped maple,Acer pensylvanicum,GRSM-Cataloochee Divide
+1238,11899,60,471,1181,471,11,0.7454545454545454,0.0007595298220298,Acer,pensylvanicum,striped maple,Acer pensylvanicum,Halesia,carolina,Carolina silverbell,Halesia carolina,GRSM-Cataloochee Divide
+1240,12002,941,483,1159,483,12,0.7272727272727272,0.0004988835110362,Nyssa,sylvatica,blackgum,Nyssa sylvatica,Quercus,velutina,black oak,Quercus velutina,GRSM-Look Rock AQ
+1250,12003,3,467,82,467,11,0.5504818825631803,0.0191495715007661,Acer,rubrum,red maple,Acer rubrum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Elkmont AQ
+1253,12003,3,471,82,471,12,0.5954371961386479,0.0073481685418874,Acer,rubrum,red maple,Acer rubrum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Elkmont AQ
+1260,12003,3,483,82,483,12,0.542651963827787,0.0156501377233771,Acer,rubrum,red maple,Acer rubrum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Elkmont AQ
+1266,12003,3,498,82,483,12,-0.5736606474750892,0.0106161341700328,Acer,rubrum,red maple,Acer rubrum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Elkmont AQ
+1267,12003,3,498,82,498,12,0.671875,0.0029173527829557,Acer,rubrum,red maple,Acer rubrum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Elkmont AQ
+1269,12003,3,498,98,498,12,0.558156305651438,0.0129176954299483,Acer,rubrum,red maple,Acer rubrum,Betula,lenta,sweet birch,Betula lenta,GRSM-Elkmont AQ
+1271,12003,12,467,98,371,11,0.537037037037037,0.0231270912645807,Cornus,florida,flowering dogwood,Cornus florida,Betula,lenta,sweet birch,Betula lenta,GRSM-Elkmont AQ
+1284,17582,3,483,61,483,11,0.6296296296296295,0.0077461911689365,Acer,rubrum,red maple,Acer rubrum,Acer,saccharum,sugar maple,Acer saccharum,GRSM-Davenport Gap
+1290,17582,61,467,82,467,10,0.5555555555555555,0.0286094576719576,Acer,saccharum,sugar maple,Acer saccharum,Liriodendron,tulipifera,tuliptree,Liriodendron tulipifera,GRSM-Davenport Gap
+1293,17582,61,483,1212,483,11,0.537037037037037,0.0231270912645807,Acer,saccharum,sugar maple,Acer saccharum,Quercus,montana,chestnut oak,Quercus montana,GRSM-Davenport Gap
